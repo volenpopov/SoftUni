@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# Adavanced\Advanced Exam Preps\02. Parking Feud\bin\Debug\netcoreapp2.1\02. Parking Feud.deps.json
+E:\Volen\Programming\C# Adavanced\Advanced Exam Preps\02. Parking Feud\bin\Debug\netcoreapp2.1\02. Parking Feud.runtimeconfig.json
+E:\Volen\Programming\C# Adavanced\Advanced Exam Preps\02. Parking Feud\bin\Debug\netcoreapp2.1\02. Parking Feud.runtimeconfig.dev.json
+E:\Volen\Programming\C# Adavanced\Advanced Exam Preps\02. Parking Feud\bin\Debug\netcoreapp2.1\02. Parking Feud.dll
+E:\Volen\Programming\C# Adavanced\Advanced Exam Preps\02. Parking Feud\bin\Debug\netcoreapp2.1\02. Parking Feud.pdb
+E:\Volen\Programming\C# Adavanced\Advanced Exam Preps\02. Parking Feud\obj\Debug\netcoreapp2.1\02. Parking Feud.csprojAssemblyReference.cache
+E:\Volen\Programming\C# Adavanced\Advanced Exam Preps\02. Parking Feud\obj\Debug\netcoreapp2.1\02. Parking Feud.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Adavanced\Advanced Exam Preps\02. Parking Feud\obj\Debug\netcoreapp2.1\02. Parking Feud.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Adavanced\Advanced Exam Preps\02. Parking Feud\obj\Debug\netcoreapp2.1\02. Parking Feud.AssemblyInfo.cs
+E:\Volen\Programming\C# Adavanced\Advanced Exam Preps\02. Parking Feud\obj\Debug\netcoreapp2.1\02. Parking Feud.dll
+E:\Volen\Programming\C# Adavanced\Advanced Exam Preps\02. Parking Feud\obj\Debug\netcoreapp2.1\02. Parking Feud.pdb
