@@ -1,0 +1,10 @@
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\4. Copy Binary file\bin\Debug\netcoreapp2.0\4. Copy Binary file.deps.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\4. Copy Binary file\bin\Debug\netcoreapp2.0\4. Copy Binary file.runtimeconfig.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\4. Copy Binary file\bin\Debug\netcoreapp2.0\4. Copy Binary file.runtimeconfig.dev.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\4. Copy Binary file\bin\Debug\netcoreapp2.0\4. Copy Binary file.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\4. Copy Binary file\bin\Debug\netcoreapp2.0\4. Copy Binary file.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\4. Copy Binary file\obj\Debug\netcoreapp2.0\4. Copy Binary file.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\4. Copy Binary file\obj\Debug\netcoreapp2.0\4. Copy Binary file.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\4. Copy Binary file\obj\Debug\netcoreapp2.0\4. Copy Binary file.AssemblyInfo.cs
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\4. Copy Binary file\obj\Debug\netcoreapp2.0\4. Copy Binary file.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\4. Copy Binary file\obj\Debug\netcoreapp2.0\4. Copy Binary file.pdb
