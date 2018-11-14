@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\2. Diagonal Difference\bin\Debug\netcoreapp2.0\2. Diagonal Difference.deps.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\2. Diagonal Difference\bin\Debug\netcoreapp2.0\2. Diagonal Difference.runtimeconfig.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\2. Diagonal Difference\bin\Debug\netcoreapp2.0\2. Diagonal Difference.runtimeconfig.dev.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\2. Diagonal Difference\bin\Debug\netcoreapp2.0\2. Diagonal Difference.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\2. Diagonal Difference\bin\Debug\netcoreapp2.0\2. Diagonal Difference.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\2. Diagonal Difference\obj\Debug\netcoreapp2.0\2. Diagonal Difference.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\2. Diagonal Difference\obj\Debug\netcoreapp2.0\2. Diagonal Difference.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\2. Diagonal Difference\obj\Debug\netcoreapp2.0\2. Diagonal Difference.AssemblyInfo.cs
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\2. Diagonal Difference\obj\Debug\netcoreapp2.0\2. Diagonal Difference.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\2. Diagonal Difference\obj\Debug\netcoreapp2.0\2. Diagonal Difference.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\2. Diagonal Difference\obj\Debug\netcoreapp2.0\2. Diagonal Difference.csprojResolveAssemblyReference.cache

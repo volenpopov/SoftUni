@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\netcoreapp2.0\Multidimensional Arrays.deps.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\netcoreapp2.0\Multidimensional Arrays.runtimeconfig.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\netcoreapp2.0\Multidimensional Arrays.runtimeconfig.dev.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\netcoreapp2.0\Multidimensional Arrays.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\Multidimensional Arrays\bin\Debug\netcoreapp2.0\Multidimensional Arrays.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\netcoreapp2.0\Multidimensional Arrays.csprojResolveAssemblyReference.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\netcoreapp2.0\Multidimensional Arrays.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\netcoreapp2.0\Multidimensional Arrays.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\netcoreapp2.0\Multidimensional Arrays.AssemblyInfo.cs
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\netcoreapp2.0\Multidimensional Arrays.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\Multidimensional Arrays\obj\Debug\netcoreapp2.0\Multidimensional Arrays.pdb
