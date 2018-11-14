@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Volen\\Programming\\New folder\\C# OOP Basics Exam 5th September 2017\\GrandPrix\\ConsoleApp1\\GrandPrix.csproj",
-      "projectName": "GrandPrix",
-      "projectPath": "E:\\Volen\\Programming\\New folder\\C# OOP Basics Exam 5th September 2017\\GrandPrix\\ConsoleApp1\\GrandPrix.csproj",
+      "projectUniqueName": "E:\\Volen\\Programming\\C# OOP Basics\\Exams\\C# OOP Basics Exam Retake 5 September 2017\\GrandPrix\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectName": "ConsoleApp1",
+      "projectPath": "E:\\Volen\\Programming\\C# OOP Basics\\Exams\\C# OOP Basics Exam Retake 5 September 2017\\GrandPrix\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\volenpopov\\.nuget\\packages\\",
-      "outputPath": "E:\\Volen\\Programming\\New folder\\C# OOP Basics Exam 5th September 2017\\GrandPrix\\ConsoleApp1\\obj\\",
+      "outputPath": "E:\\Volen\\Programming\\C# OOP Basics\\Exams\\C# OOP Basics Exam Retake 5 September 2017\\GrandPrix\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
