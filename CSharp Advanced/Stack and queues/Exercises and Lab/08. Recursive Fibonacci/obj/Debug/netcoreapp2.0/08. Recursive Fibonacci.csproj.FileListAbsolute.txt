@@ -1,0 +1,22 @@
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\08. Recursive Fibonacci\bin\Debug\netcoreapp2.0\08. Recursive Fibonacci.deps.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\08. Recursive Fibonacci\bin\Debug\netcoreapp2.0\08. Recursive Fibonacci.runtimeconfig.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\08. Recursive Fibonacci\bin\Debug\netcoreapp2.0\08. Recursive Fibonacci.runtimeconfig.dev.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\08. Recursive Fibonacci\bin\Debug\netcoreapp2.0\08. Recursive Fibonacci.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\08. Recursive Fibonacci\bin\Debug\netcoreapp2.0\08. Recursive Fibonacci.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\08. Recursive Fibonacci\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci.csprojResolveAssemblyReference.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\08. Recursive Fibonacci\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\08. Recursive Fibonacci\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\08. Recursive Fibonacci\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci.AssemblyInfo.cs
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\08. Recursive Fibonacci\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\08. Recursive Fibonacci\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci.pdb
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\08. Recursive Fibonacci\bin\Debug\netcoreapp2.0\08. Recursive Fibonacci.deps.json
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\08. Recursive Fibonacci\bin\Debug\netcoreapp2.0\08. Recursive Fibonacci.runtimeconfig.json
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\08. Recursive Fibonacci\bin\Debug\netcoreapp2.0\08. Recursive Fibonacci.runtimeconfig.dev.json
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\08. Recursive Fibonacci\bin\Debug\netcoreapp2.0\08. Recursive Fibonacci.dll
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\08. Recursive Fibonacci\bin\Debug\netcoreapp2.0\08. Recursive Fibonacci.pdb
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\08. Recursive Fibonacci\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci.csprojAssemblyReference.cache
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\08. Recursive Fibonacci\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\08. Recursive Fibonacci\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\08. Recursive Fibonacci\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci.AssemblyInfo.cs
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\08. Recursive Fibonacci\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci.dll
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\08. Recursive Fibonacci\obj\Debug\netcoreapp2.0\08. Recursive Fibonacci.pdb
