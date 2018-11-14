@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\10. Heigan Dance v0\bin\Debug\netcoreapp2.0\10. Heigan Dance v0.deps.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\10. Heigan Dance v0\bin\Debug\netcoreapp2.0\10. Heigan Dance v0.runtimeconfig.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\10. Heigan Dance v0\bin\Debug\netcoreapp2.0\10. Heigan Dance v0.runtimeconfig.dev.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\10. Heigan Dance v0\bin\Debug\netcoreapp2.0\10. Heigan Dance v0.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\10. Heigan Dance v0\bin\Debug\netcoreapp2.0\10. Heigan Dance v0.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\10. Heigan Dance v0\obj\Debug\netcoreapp2.0\10. Heigan Dance v0.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\10. Heigan Dance v0\obj\Debug\netcoreapp2.0\10. Heigan Dance v0.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\10. Heigan Dance v0\obj\Debug\netcoreapp2.0\10. Heigan Dance v0.AssemblyInfo.cs
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\10. Heigan Dance v0\obj\Debug\netcoreapp2.0\10. Heigan Dance v0.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\10. Heigan Dance v0\obj\Debug\netcoreapp2.0\10. Heigan Dance v0.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\10. Heigan Dance v0\obj\Debug\netcoreapp2.0\10. Heigan Dance v0.csprojResolveAssemblyReference.cache

@@ -1,0 +1,22 @@
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\12. String Matrix Rotation\bin\Debug\netcoreapp2.0\12. String Matrix Rotation.deps.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\12. String Matrix Rotation\bin\Debug\netcoreapp2.0\12. String Matrix Rotation.runtimeconfig.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\12. String Matrix Rotation\bin\Debug\netcoreapp2.0\12. String Matrix Rotation.runtimeconfig.dev.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\12. String Matrix Rotation\bin\Debug\netcoreapp2.0\12. String Matrix Rotation.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\12. String Matrix Rotation\bin\Debug\netcoreapp2.0\12. String Matrix Rotation.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\12. String Matrix Rotation\obj\Debug\netcoreapp2.0\12. String Matrix Rotation.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\12. String Matrix Rotation\obj\Debug\netcoreapp2.0\12. String Matrix Rotation.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\12. String Matrix Rotation\obj\Debug\netcoreapp2.0\12. String Matrix Rotation.AssemblyInfo.cs
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\12. String Matrix Rotation\obj\Debug\netcoreapp2.0\12. String Matrix Rotation.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\12. String Matrix Rotation\obj\Debug\netcoreapp2.0\12. String Matrix Rotation.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\12. String Matrix Rotation\obj\Debug\netcoreapp2.0\12. String Matrix Rotation.csprojResolveAssemblyReference.cache
+E:\Volen\Programming\C# Adavanced\05. Multidimensional Arrays\Multidimensional Arrays\12. String Matrix Rotation\bin\Debug\netcoreapp2.0\12. String Matrix Rotation.deps.json
+E:\Volen\Programming\C# Adavanced\05. Multidimensional Arrays\Multidimensional Arrays\12. String Matrix Rotation\bin\Debug\netcoreapp2.0\12. String Matrix Rotation.runtimeconfig.json
+E:\Volen\Programming\C# Adavanced\05. Multidimensional Arrays\Multidimensional Arrays\12. String Matrix Rotation\bin\Debug\netcoreapp2.0\12. String Matrix Rotation.runtimeconfig.dev.json
+E:\Volen\Programming\C# Adavanced\05. Multidimensional Arrays\Multidimensional Arrays\12. String Matrix Rotation\bin\Debug\netcoreapp2.0\12. String Matrix Rotation.dll
+E:\Volen\Programming\C# Adavanced\05. Multidimensional Arrays\Multidimensional Arrays\12. String Matrix Rotation\bin\Debug\netcoreapp2.0\12. String Matrix Rotation.pdb
+E:\Volen\Programming\C# Adavanced\05. Multidimensional Arrays\Multidimensional Arrays\12. String Matrix Rotation\obj\Debug\netcoreapp2.0\12. String Matrix Rotation.csprojAssemblyReference.cache
+E:\Volen\Programming\C# Adavanced\05. Multidimensional Arrays\Multidimensional Arrays\12. String Matrix Rotation\obj\Debug\netcoreapp2.0\12. String Matrix Rotation.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Adavanced\05. Multidimensional Arrays\Multidimensional Arrays\12. String Matrix Rotation\obj\Debug\netcoreapp2.0\12. String Matrix Rotation.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Adavanced\05. Multidimensional Arrays\Multidimensional Arrays\12. String Matrix Rotation\obj\Debug\netcoreapp2.0\12. String Matrix Rotation.AssemblyInfo.cs
+E:\Volen\Programming\C# Adavanced\05. Multidimensional Arrays\Multidimensional Arrays\12. String Matrix Rotation\obj\Debug\netcoreapp2.0\12. String Matrix Rotation.dll
+E:\Volen\Programming\C# Adavanced\05. Multidimensional Arrays\Multidimensional Arrays\12. String Matrix Rotation\obj\Debug\netcoreapp2.0\12. String Matrix Rotation.pdb
