@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\1. Read File\bin\Debug\netcoreapp2.0\1. Read File.deps.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\1. Read File\bin\Debug\netcoreapp2.0\1. Read File.runtimeconfig.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\1. Read File\bin\Debug\netcoreapp2.0\1. Read File.runtimeconfig.dev.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\1. Read File\bin\Debug\netcoreapp2.0\1. Read File.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\1. Read File\bin\Debug\netcoreapp2.0\1. Read File.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\1. Read File\obj\Debug\netcoreapp2.0\1. Read File.csprojResolveAssemblyReference.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\1. Read File\obj\Debug\netcoreapp2.0\1. Read File.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\1. Read File\obj\Debug\netcoreapp2.0\1. Read File.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\1. Read File\obj\Debug\netcoreapp2.0\1. Read File.AssemblyInfo.cs
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\1. Read File\obj\Debug\netcoreapp2.0\1. Read File.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\1. Read File\obj\Debug\netcoreapp2.0\1. Read File.pdb

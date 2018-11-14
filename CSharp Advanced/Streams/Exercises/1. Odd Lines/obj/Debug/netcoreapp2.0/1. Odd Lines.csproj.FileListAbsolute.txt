@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\1. Odd Lines\bin\Debug\netcoreapp2.0\1. Odd Lines.deps.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\1. Odd Lines\bin\Debug\netcoreapp2.0\1. Odd Lines.runtimeconfig.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\1. Odd Lines\bin\Debug\netcoreapp2.0\1. Odd Lines.runtimeconfig.dev.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\1. Odd Lines\bin\Debug\netcoreapp2.0\1. Odd Lines.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\1. Odd Lines\bin\Debug\netcoreapp2.0\1. Odd Lines.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.AssemblyInfo.cs
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\1. Odd Lines\obj\Debug\netcoreapp2.0\1. Odd Lines.csprojResolveAssemblyReference.cache

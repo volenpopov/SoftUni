@@ -1,0 +1,31 @@
+1 using System;
+2 using System.IO;
+3 
+4 namespace _1._Read_File
+5 {
+6     class Program
+7     {
+8         static void Main(string[] args)
+9         {
+10             StreamReader readStream = new StreamReader(@"..\..\..\Program.cs");
+11             StreamWriter writeStream = new StreamWriter(@"..\..\..\Text.txt");
+12 
+13             using (readStream)
+14             {
+15                 using (writeStream)
+16                 {
+17                     string textLine = readStream.ReadLine();
+18                     int lineNum = 1;
+19 
+20                     while (textLine != null)
+21                     {
+22                         writeStream.WriteLine(lineNum + " " + textLine);
+23                         lineNum++;
+24                         textLine = readStream.ReadLine();
+25                     }
+26                 }
+27             }
+28            
+29         }
+30     }
+31 }
