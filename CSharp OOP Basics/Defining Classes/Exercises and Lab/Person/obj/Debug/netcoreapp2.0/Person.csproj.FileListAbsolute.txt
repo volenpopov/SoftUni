@@ -1,0 +1,22 @@
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\Person\bin\Debug\netcoreapp2.0\Person.deps.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\Person\bin\Debug\netcoreapp2.0\Person.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\Person\bin\Debug\netcoreapp2.0\Person.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\Person\bin\Debug\netcoreapp2.0\Person.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\Person\bin\Debug\netcoreapp2.0\Person.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\Person\obj\Debug\netcoreapp2.0\Person.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\Person\obj\Debug\netcoreapp2.0\Person.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\Person\obj\Debug\netcoreapp2.0\Person.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\Person\obj\Debug\netcoreapp2.0\Person.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\Person\obj\Debug\netcoreapp2.0\Person.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\Person\obj\Debug\netcoreapp2.0\Person.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\Person\bin\Debug\netcoreapp2.0\Person.deps.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\Person\bin\Debug\netcoreapp2.0\Person.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\Person\bin\Debug\netcoreapp2.0\Person.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\Person\bin\Debug\netcoreapp2.0\Person.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\Person\bin\Debug\netcoreapp2.0\Person.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\Person\obj\Debug\netcoreapp2.0\Person.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\Person\obj\Debug\netcoreapp2.0\Person.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\Person\obj\Debug\netcoreapp2.0\Person.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\Person\obj\Debug\netcoreapp2.0\Person.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\Person\obj\Debug\netcoreapp2.0\Person.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\Person\obj\Debug\netcoreapp2.0\Person.pdb

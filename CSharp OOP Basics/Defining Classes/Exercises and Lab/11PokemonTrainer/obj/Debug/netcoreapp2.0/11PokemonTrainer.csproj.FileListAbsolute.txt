@@ -1,0 +1,22 @@
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\11PokemonTrainer\bin\Debug\netcoreapp2.0\11PokemonTrainer.deps.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\11PokemonTrainer\bin\Debug\netcoreapp2.0\11PokemonTrainer.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\11PokemonTrainer\bin\Debug\netcoreapp2.0\11PokemonTrainer.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\11PokemonTrainer\bin\Debug\netcoreapp2.0\11PokemonTrainer.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\11PokemonTrainer\bin\Debug\netcoreapp2.0\11PokemonTrainer.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\11PokemonTrainer\obj\Debug\netcoreapp2.0\11PokemonTrainer.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\11PokemonTrainer\obj\Debug\netcoreapp2.0\11PokemonTrainer.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\11PokemonTrainer\obj\Debug\netcoreapp2.0\11PokemonTrainer.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\11PokemonTrainer\obj\Debug\netcoreapp2.0\11PokemonTrainer.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\11PokemonTrainer\obj\Debug\netcoreapp2.0\11PokemonTrainer.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\11PokemonTrainer\obj\Debug\netcoreapp2.0\11PokemonTrainer.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\11PokemonTrainer\bin\Debug\netcoreapp2.0\11PokemonTrainer.deps.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\11PokemonTrainer\bin\Debug\netcoreapp2.0\11PokemonTrainer.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\11PokemonTrainer\bin\Debug\netcoreapp2.0\11PokemonTrainer.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\11PokemonTrainer\bin\Debug\netcoreapp2.0\11PokemonTrainer.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\11PokemonTrainer\bin\Debug\netcoreapp2.0\11PokemonTrainer.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\11PokemonTrainer\obj\Debug\netcoreapp2.0\11PokemonTrainer.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\11PokemonTrainer\obj\Debug\netcoreapp2.0\11PokemonTrainer.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\11PokemonTrainer\obj\Debug\netcoreapp2.0\11PokemonTrainer.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\11PokemonTrainer\obj\Debug\netcoreapp2.0\11PokemonTrainer.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\11PokemonTrainer\obj\Debug\netcoreapp2.0\11PokemonTrainer.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\11PokemonTrainer\obj\Debug\netcoreapp2.0\11PokemonTrainer.pdb

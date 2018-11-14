@@ -1,0 +1,22 @@
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\10CarSalesman\bin\Debug\netcoreapp2.0\10CarSalesman.deps.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\10CarSalesman\bin\Debug\netcoreapp2.0\10CarSalesman.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\10CarSalesman\bin\Debug\netcoreapp2.0\10CarSalesman.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\10CarSalesman\bin\Debug\netcoreapp2.0\10CarSalesman.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\10CarSalesman\bin\Debug\netcoreapp2.0\10CarSalesman.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\10CarSalesman\obj\Debug\netcoreapp2.0\10CarSalesman.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\10CarSalesman\obj\Debug\netcoreapp2.0\10CarSalesman.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\10CarSalesman\obj\Debug\netcoreapp2.0\10CarSalesman.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\10CarSalesman\obj\Debug\netcoreapp2.0\10CarSalesman.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\10CarSalesman\obj\Debug\netcoreapp2.0\10CarSalesman.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\10CarSalesman\obj\Debug\netcoreapp2.0\10CarSalesman.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\10CarSalesman\bin\Debug\netcoreapp2.0\10CarSalesman.deps.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\10CarSalesman\bin\Debug\netcoreapp2.0\10CarSalesman.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\10CarSalesman\bin\Debug\netcoreapp2.0\10CarSalesman.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\10CarSalesman\bin\Debug\netcoreapp2.0\10CarSalesman.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\10CarSalesman\bin\Debug\netcoreapp2.0\10CarSalesman.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\10CarSalesman\obj\Debug\netcoreapp2.0\10CarSalesman.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\10CarSalesman\obj\Debug\netcoreapp2.0\10CarSalesman.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\10CarSalesman\obj\Debug\netcoreapp2.0\10CarSalesman.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\10CarSalesman\obj\Debug\netcoreapp2.0\10CarSalesman.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\10CarSalesman\obj\Debug\netcoreapp2.0\10CarSalesman.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\10CarSalesman\obj\Debug\netcoreapp2.0\10CarSalesman.pdb

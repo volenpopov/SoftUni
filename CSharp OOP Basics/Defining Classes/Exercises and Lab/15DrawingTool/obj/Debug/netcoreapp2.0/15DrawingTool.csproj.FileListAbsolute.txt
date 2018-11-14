@@ -1,0 +1,17 @@
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\15DrawingTool\bin\Debug\netcoreapp2.0\15DrawingTool.deps.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\15DrawingTool\bin\Debug\netcoreapp2.0\15DrawingTool.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\15DrawingTool\bin\Debug\netcoreapp2.0\15DrawingTool.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\15DrawingTool\bin\Debug\netcoreapp2.0\15DrawingTool.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\15DrawingTool\bin\Debug\netcoreapp2.0\15DrawingTool.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\15DrawingTool\obj\Debug\netcoreapp2.0\15DrawingTool.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\15DrawingTool\obj\Debug\netcoreapp2.0\15DrawingTool.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\15DrawingTool\obj\Debug\netcoreapp2.0\15DrawingTool.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\15DrawingTool\obj\Debug\netcoreapp2.0\15DrawingTool.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\15DrawingTool\obj\Debug\netcoreapp2.0\15DrawingTool.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\15DrawingTool\obj\Debug\netcoreapp2.0\15DrawingTool.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\15DrawingTool\obj\Debug\netcoreapp2.0\15DrawingTool.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\15DrawingTool\obj\Debug\netcoreapp2.0\15DrawingTool.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\15DrawingTool\obj\Debug\netcoreapp2.0\15DrawingTool.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\15DrawingTool\obj\Debug\netcoreapp2.0\15DrawingTool.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\15DrawingTool\obj\Debug\netcoreapp2.0\15DrawingTool.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\15DrawingTool\obj\Debug\netcoreapp2.0\15DrawingTool.pdb

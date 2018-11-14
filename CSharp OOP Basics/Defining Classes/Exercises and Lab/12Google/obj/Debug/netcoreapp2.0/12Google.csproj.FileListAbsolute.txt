@@ -1,0 +1,22 @@
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\12Google\obj\Debug\netcoreapp2.0\12Google.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\12Google\obj\Debug\netcoreapp2.0\12Google.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\12Google\obj\Debug\netcoreapp2.0\12Google.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\12Google\obj\Debug\netcoreapp2.0\12Google.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\12Google\bin\Debug\netcoreapp2.0\12Google.deps.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\12Google\bin\Debug\netcoreapp2.0\12Google.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\12Google\bin\Debug\netcoreapp2.0\12Google.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\12Google\bin\Debug\netcoreapp2.0\12Google.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\12Google\bin\Debug\netcoreapp2.0\12Google.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\12Google\obj\Debug\netcoreapp2.0\12Google.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\12Google\obj\Debug\netcoreapp2.0\12Google.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\12Google\bin\Debug\netcoreapp2.0\12Google.deps.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\12Google\bin\Debug\netcoreapp2.0\12Google.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\12Google\bin\Debug\netcoreapp2.0\12Google.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\12Google\bin\Debug\netcoreapp2.0\12Google.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\12Google\bin\Debug\netcoreapp2.0\12Google.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\12Google\obj\Debug\netcoreapp2.0\12Google.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\12Google\obj\Debug\netcoreapp2.0\12Google.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\12Google\obj\Debug\netcoreapp2.0\12Google.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\12Google\obj\Debug\netcoreapp2.0\12Google.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\12Google\obj\Debug\netcoreapp2.0\12Google.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\12Google\obj\Debug\netcoreapp2.0\12Google.pdb

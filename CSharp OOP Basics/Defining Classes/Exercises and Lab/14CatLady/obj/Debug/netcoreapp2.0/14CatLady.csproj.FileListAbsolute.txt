@@ -1,0 +1,22 @@
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\14CatLady\bin\Debug\netcoreapp2.0\14CatLady.deps.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\14CatLady\bin\Debug\netcoreapp2.0\14CatLady.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\14CatLady\bin\Debug\netcoreapp2.0\14CatLady.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\14CatLady\bin\Debug\netcoreapp2.0\14CatLady.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\14CatLady\bin\Debug\netcoreapp2.0\14CatLady.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\14CatLady\obj\Debug\netcoreapp2.0\14CatLady.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\14CatLady\obj\Debug\netcoreapp2.0\14CatLady.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\14CatLady\obj\Debug\netcoreapp2.0\14CatLady.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\14CatLady\obj\Debug\netcoreapp2.0\14CatLady.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\14CatLady\obj\Debug\netcoreapp2.0\14CatLady.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\14CatLady\obj\Debug\netcoreapp2.0\14CatLady.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\14CatLady\bin\Debug\netcoreapp2.0\14CatLady.deps.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\14CatLady\bin\Debug\netcoreapp2.0\14CatLady.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\14CatLady\bin\Debug\netcoreapp2.0\14CatLady.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\14CatLady\bin\Debug\netcoreapp2.0\14CatLady.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\14CatLady\bin\Debug\netcoreapp2.0\14CatLady.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\14CatLady\obj\Debug\netcoreapp2.0\14CatLady.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\14CatLady\obj\Debug\netcoreapp2.0\14CatLady.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\14CatLady\obj\Debug\netcoreapp2.0\14CatLady.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\14CatLady\obj\Debug\netcoreapp2.0\14CatLady.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\14CatLady\obj\Debug\netcoreapp2.0\14CatLady.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\14CatLady\obj\Debug\netcoreapp2.0\14CatLady.pdb

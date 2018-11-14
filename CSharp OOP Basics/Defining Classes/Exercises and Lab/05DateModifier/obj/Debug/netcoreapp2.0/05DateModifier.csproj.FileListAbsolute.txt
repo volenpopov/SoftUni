@@ -1,0 +1,22 @@
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\05DateModifier\bin\Debug\netcoreapp2.0\05DateModifier.deps.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\05DateModifier\bin\Debug\netcoreapp2.0\05DateModifier.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\05DateModifier\bin\Debug\netcoreapp2.0\05DateModifier.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\05DateModifier\bin\Debug\netcoreapp2.0\05DateModifier.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\05DateModifier\bin\Debug\netcoreapp2.0\05DateModifier.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\05DateModifier\obj\Debug\netcoreapp2.0\05DateModifier.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\05DateModifier\obj\Debug\netcoreapp2.0\05DateModifier.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\05DateModifier\obj\Debug\netcoreapp2.0\05DateModifier.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\05DateModifier\obj\Debug\netcoreapp2.0\05DateModifier.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\05DateModifier\obj\Debug\netcoreapp2.0\05DateModifier.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\05DateModifier\obj\Debug\netcoreapp2.0\05DateModifier.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\05DateModifier\bin\Debug\netcoreapp2.0\05DateModifier.deps.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\05DateModifier\bin\Debug\netcoreapp2.0\05DateModifier.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\05DateModifier\bin\Debug\netcoreapp2.0\05DateModifier.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\05DateModifier\bin\Debug\netcoreapp2.0\05DateModifier.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\05DateModifier\bin\Debug\netcoreapp2.0\05DateModifier.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\05DateModifier\obj\Debug\netcoreapp2.0\05DateModifier.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\05DateModifier\obj\Debug\netcoreapp2.0\05DateModifier.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\05DateModifier\obj\Debug\netcoreapp2.0\05DateModifier.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\05DateModifier\obj\Debug\netcoreapp2.0\05DateModifier.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\05DateModifier\obj\Debug\netcoreapp2.0\05DateModifier.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\05DateModifier\obj\Debug\netcoreapp2.0\05DateModifier.pdb

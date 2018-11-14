@@ -1,0 +1,22 @@
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\13FamilyTree\bin\Debug\netcoreapp2.0\13FamilyTree.deps.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\13FamilyTree\bin\Debug\netcoreapp2.0\13FamilyTree.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\13FamilyTree\bin\Debug\netcoreapp2.0\13FamilyTree.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\13FamilyTree\bin\Debug\netcoreapp2.0\13FamilyTree.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\13FamilyTree\bin\Debug\netcoreapp2.0\13FamilyTree.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\13FamilyTree\obj\Debug\netcoreapp2.0\13FamilyTree.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\13FamilyTree\obj\Debug\netcoreapp2.0\13FamilyTree.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\13FamilyTree\obj\Debug\netcoreapp2.0\13FamilyTree.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\13FamilyTree\obj\Debug\netcoreapp2.0\13FamilyTree.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\13FamilyTree\obj\Debug\netcoreapp2.0\13FamilyTree.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\13FamilyTree\obj\Debug\netcoreapp2.0\13FamilyTree.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\13FamilyTree\bin\Debug\netcoreapp2.0\13FamilyTree.deps.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\13FamilyTree\bin\Debug\netcoreapp2.0\13FamilyTree.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\13FamilyTree\bin\Debug\netcoreapp2.0\13FamilyTree.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\13FamilyTree\bin\Debug\netcoreapp2.0\13FamilyTree.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\13FamilyTree\bin\Debug\netcoreapp2.0\13FamilyTree.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\13FamilyTree\obj\Debug\netcoreapp2.0\13FamilyTree.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\13FamilyTree\obj\Debug\netcoreapp2.0\13FamilyTree.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\13FamilyTree\obj\Debug\netcoreapp2.0\13FamilyTree.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\13FamilyTree\obj\Debug\netcoreapp2.0\13FamilyTree.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\13FamilyTree\obj\Debug\netcoreapp2.0\13FamilyTree.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\13FamilyTree\obj\Debug\netcoreapp2.0\13FamilyTree.pdb

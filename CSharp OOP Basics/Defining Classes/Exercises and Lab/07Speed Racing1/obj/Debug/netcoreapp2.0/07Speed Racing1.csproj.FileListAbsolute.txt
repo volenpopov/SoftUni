@@ -1,0 +1,22 @@
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\07Speed Racing1\bin\Debug\netcoreapp2.0\07Speed Racing1.deps.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\07Speed Racing1\bin\Debug\netcoreapp2.0\07Speed Racing1.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\07Speed Racing1\bin\Debug\netcoreapp2.0\07Speed Racing1.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\07Speed Racing1\bin\Debug\netcoreapp2.0\07Speed Racing1.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\07Speed Racing1\bin\Debug\netcoreapp2.0\07Speed Racing1.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\07Speed Racing1\obj\Debug\netcoreapp2.0\07Speed Racing1.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\07Speed Racing1\obj\Debug\netcoreapp2.0\07Speed Racing1.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\07Speed Racing1\obj\Debug\netcoreapp2.0\07Speed Racing1.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\07Speed Racing1\obj\Debug\netcoreapp2.0\07Speed Racing1.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\07Speed Racing1\obj\Debug\netcoreapp2.0\07Speed Racing1.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\07Speed Racing1\obj\Debug\netcoreapp2.0\07Speed Racing1.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\07Speed Racing1\bin\Debug\netcoreapp2.0\07Speed Racing1.deps.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\07Speed Racing1\bin\Debug\netcoreapp2.0\07Speed Racing1.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\07Speed Racing1\bin\Debug\netcoreapp2.0\07Speed Racing1.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\07Speed Racing1\bin\Debug\netcoreapp2.0\07Speed Racing1.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\07Speed Racing1\bin\Debug\netcoreapp2.0\07Speed Racing1.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\07Speed Racing1\obj\Debug\netcoreapp2.0\07Speed Racing1.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\07Speed Racing1\obj\Debug\netcoreapp2.0\07Speed Racing1.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\07Speed Racing1\obj\Debug\netcoreapp2.0\07Speed Racing1.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\07Speed Racing1\obj\Debug\netcoreapp2.0\07Speed Racing1.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\07Speed Racing1\obj\Debug\netcoreapp2.0\07Speed Racing1.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\07Speed Racing1\obj\Debug\netcoreapp2.0\07Speed Racing1.pdb

@@ -1,0 +1,22 @@
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\08RawData\bin\Debug\netcoreapp2.0\08RawData.deps.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\08RawData\bin\Debug\netcoreapp2.0\08RawData.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\08RawData\bin\Debug\netcoreapp2.0\08RawData.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\08RawData\bin\Debug\netcoreapp2.0\08RawData.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\08RawData\bin\Debug\netcoreapp2.0\08RawData.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\08RawData\obj\Debug\netcoreapp2.0\08RawData.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\08RawData\obj\Debug\netcoreapp2.0\08RawData.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\08RawData\obj\Debug\netcoreapp2.0\08RawData.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\08RawData\obj\Debug\netcoreapp2.0\08RawData.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\08RawData\obj\Debug\netcoreapp2.0\08RawData.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\08RawData\obj\Debug\netcoreapp2.0\08RawData.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\08RawData\bin\Debug\netcoreapp2.0\08RawData.deps.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\08RawData\bin\Debug\netcoreapp2.0\08RawData.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\08RawData\bin\Debug\netcoreapp2.0\08RawData.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\08RawData\bin\Debug\netcoreapp2.0\08RawData.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\08RawData\bin\Debug\netcoreapp2.0\08RawData.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\08RawData\obj\Debug\netcoreapp2.0\08RawData.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\08RawData\obj\Debug\netcoreapp2.0\08RawData.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\08RawData\obj\Debug\netcoreapp2.0\08RawData.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\08RawData\obj\Debug\netcoreapp2.0\08RawData.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\08RawData\obj\Debug\netcoreapp2.0\08RawData.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\08RawData\obj\Debug\netcoreapp2.0\08RawData.pdb

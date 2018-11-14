@@ -1,0 +1,22 @@
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\BankAccount\bin\Debug\netcoreapp2.0\BankAccount.deps.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\BankAccount\bin\Debug\netcoreapp2.0\BankAccount.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\BankAccount\bin\Debug\netcoreapp2.0\BankAccount.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\BankAccount\bin\Debug\netcoreapp2.0\BankAccount.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\BankAccount\bin\Debug\netcoreapp2.0\BankAccount.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\DefiningClasses\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\BankAccount\bin\Debug\netcoreapp2.0\BankAccount.deps.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\BankAccount\bin\Debug\netcoreapp2.0\BankAccount.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\BankAccount\bin\Debug\netcoreapp2.0\BankAccount.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\BankAccount\bin\Debug\netcoreapp2.0\BankAccount.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\BankAccount\bin\Debug\netcoreapp2.0\BankAccount.pdb
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.dll
+E:\Volen\Programming\C# OOP Basics\Defining Classes\Exercises and Lab\BankAccount\obj\Debug\netcoreapp2.0\BankAccount.pdb
