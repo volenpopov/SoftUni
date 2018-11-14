@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\4. Pascal Triangle\bin\Debug\netcoreapp2.0\4. Pascal Triangle.deps.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\4. Pascal Triangle\bin\Debug\netcoreapp2.0\4. Pascal Triangle.runtimeconfig.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\4. Pascal Triangle\bin\Debug\netcoreapp2.0\4. Pascal Triangle.runtimeconfig.dev.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\4. Pascal Triangle\bin\Debug\netcoreapp2.0\4. Pascal Triangle.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\4. Pascal Triangle\bin\Debug\netcoreapp2.0\4. Pascal Triangle.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\4. Pascal Triangle\obj\Debug\netcoreapp2.0\4. Pascal Triangle.csprojResolveAssemblyReference.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\4. Pascal Triangle\obj\Debug\netcoreapp2.0\4. Pascal Triangle.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\4. Pascal Triangle\obj\Debug\netcoreapp2.0\4. Pascal Triangle.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\4. Pascal Triangle\obj\Debug\netcoreapp2.0\4. Pascal Triangle.AssemblyInfo.cs
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\4. Pascal Triangle\obj\Debug\netcoreapp2.0\4. Pascal Triangle.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\4. Pascal Triangle\obj\Debug\netcoreapp2.0\4. Pascal Triangle.pdb
