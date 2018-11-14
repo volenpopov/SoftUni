@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# Adavanced\Advanced Exam Preps\03. Ticket Trouble V2\bin\Debug\netcoreapp2.1\03. Ticket Trouble V2.deps.json
+E:\Volen\Programming\C# Adavanced\Advanced Exam Preps\03. Ticket Trouble V2\bin\Debug\netcoreapp2.1\03. Ticket Trouble V2.runtimeconfig.json
+E:\Volen\Programming\C# Adavanced\Advanced Exam Preps\03. Ticket Trouble V2\bin\Debug\netcoreapp2.1\03. Ticket Trouble V2.runtimeconfig.dev.json
+E:\Volen\Programming\C# Adavanced\Advanced Exam Preps\03. Ticket Trouble V2\bin\Debug\netcoreapp2.1\03. Ticket Trouble V2.dll
+E:\Volen\Programming\C# Adavanced\Advanced Exam Preps\03. Ticket Trouble V2\bin\Debug\netcoreapp2.1\03. Ticket Trouble V2.pdb
+E:\Volen\Programming\C# Adavanced\Advanced Exam Preps\03. Ticket Trouble V2\obj\Debug\netcoreapp2.1\03. Ticket Trouble V2.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Adavanced\Advanced Exam Preps\03. Ticket Trouble V2\obj\Debug\netcoreapp2.1\03. Ticket Trouble V2.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Adavanced\Advanced Exam Preps\03. Ticket Trouble V2\obj\Debug\netcoreapp2.1\03. Ticket Trouble V2.AssemblyInfo.cs
+E:\Volen\Programming\C# Adavanced\Advanced Exam Preps\03. Ticket Trouble V2\obj\Debug\netcoreapp2.1\03. Ticket Trouble V2.dll
+E:\Volen\Programming\C# Adavanced\Advanced Exam Preps\03. Ticket Trouble V2\obj\Debug\netcoreapp2.1\03. Ticket Trouble V2.pdb
+E:\Volen\Programming\C# Adavanced\Advanced Exam Preps\03. Ticket Trouble V2\obj\Debug\netcoreapp2.1\03. Ticket Trouble V2.csprojAssemblyReference.cache
