@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\1. Sort Even Numbers\bin\Debug\netcoreapp2.0\1. Sort Even Numbers.deps.json
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\1. Sort Even Numbers\bin\Debug\netcoreapp2.0\1. Sort Even Numbers.runtimeconfig.json
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\1. Sort Even Numbers\bin\Debug\netcoreapp2.0\1. Sort Even Numbers.runtimeconfig.dev.json
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\1. Sort Even Numbers\bin\Debug\netcoreapp2.0\1. Sort Even Numbers.dll
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\1. Sort Even Numbers\bin\Debug\netcoreapp2.0\1. Sort Even Numbers.pdb
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\1. Sort Even Numbers\obj\Debug\netcoreapp2.0\1. Sort Even Numbers.csprojResolveAssemblyReference.cache
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\1. Sort Even Numbers\obj\Debug\netcoreapp2.0\1. Sort Even Numbers.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\1. Sort Even Numbers\obj\Debug\netcoreapp2.0\1. Sort Even Numbers.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\1. Sort Even Numbers\obj\Debug\netcoreapp2.0\1. Sort Even Numbers.AssemblyInfo.cs
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\1. Sort Even Numbers\obj\Debug\netcoreapp2.0\1. Sort Even Numbers.dll
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\1. Sort Even Numbers\obj\Debug\netcoreapp2.0\1. Sort Even Numbers.pdb
