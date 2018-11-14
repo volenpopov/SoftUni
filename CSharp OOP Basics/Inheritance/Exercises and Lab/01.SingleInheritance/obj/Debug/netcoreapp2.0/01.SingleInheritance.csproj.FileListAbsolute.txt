@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\01.SingleInheritance\bin\Debug\netcoreapp2.0\01.SingleInheritance.deps.json
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\01.SingleInheritance\bin\Debug\netcoreapp2.0\01.SingleInheritance.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\01.SingleInheritance\bin\Debug\netcoreapp2.0\01.SingleInheritance.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\01.SingleInheritance\bin\Debug\netcoreapp2.0\01.SingleInheritance.dll
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\01.SingleInheritance\bin\Debug\netcoreapp2.0\01.SingleInheritance.pdb
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\01.SingleInheritance\obj\Debug\netcoreapp2.0\01.SingleInheritance.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\01.SingleInheritance\obj\Debug\netcoreapp2.0\01.SingleInheritance.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\01.SingleInheritance\obj\Debug\netcoreapp2.0\01.SingleInheritance.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\01.SingleInheritance\obj\Debug\netcoreapp2.0\01.SingleInheritance.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\01.SingleInheritance\obj\Debug\netcoreapp2.0\01.SingleInheritance.dll
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\01.SingleInheritance\obj\Debug\netcoreapp2.0\01.SingleInheritance.pdb

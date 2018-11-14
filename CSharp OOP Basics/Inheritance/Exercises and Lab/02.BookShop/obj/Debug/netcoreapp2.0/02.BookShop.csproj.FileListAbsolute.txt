@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\02.BookShop\obj\Debug\netcoreapp2.0\02.BookShop.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\02.BookShop\obj\Debug\netcoreapp2.0\02.BookShop.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\02.BookShop\obj\Debug\netcoreapp2.0\02.BookShop.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\02.BookShop\bin\Debug\netcoreapp2.0\02.BookShop.deps.json
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\02.BookShop\bin\Debug\netcoreapp2.0\02.BookShop.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\02.BookShop\bin\Debug\netcoreapp2.0\02.BookShop.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\02.BookShop\bin\Debug\netcoreapp2.0\02.BookShop.dll
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\02.BookShop\bin\Debug\netcoreapp2.0\02.BookShop.pdb
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\02.BookShop\obj\Debug\netcoreapp2.0\02.BookShop.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\02.BookShop\obj\Debug\netcoreapp2.0\02.BookShop.dll
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\02.BookShop\obj\Debug\netcoreapp2.0\02.BookShop.pdb

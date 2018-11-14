@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Basics\Working with Abstraction\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.deps.json
+E:\Volen\Programming\C# OOP Basics\Working with Abstraction\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Working with Abstraction\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Working with Abstraction\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.dll
+E:\Volen\Programming\C# OOP Basics\Working with Abstraction\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.pdb
+E:\Volen\Programming\C# OOP Basics\Working with Abstraction\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Working with Abstraction\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Working with Abstraction\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Working with Abstraction\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Working with Abstraction\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.dll
+E:\Volen\Programming\C# OOP Basics\Working with Abstraction\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.pdb

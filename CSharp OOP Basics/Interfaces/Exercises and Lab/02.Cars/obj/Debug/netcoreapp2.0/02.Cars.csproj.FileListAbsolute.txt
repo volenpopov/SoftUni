@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\02.Cars\bin\Debug\netcoreapp2.0\02.Cars.deps.json
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\02.Cars\bin\Debug\netcoreapp2.0\02.Cars.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\02.Cars\bin\Debug\netcoreapp2.0\02.Cars.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\02.Cars\bin\Debug\netcoreapp2.0\02.Cars.dll
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\02.Cars\bin\Debug\netcoreapp2.0\02.Cars.pdb
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\02.Cars\obj\Debug\netcoreapp2.0\02.Cars.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\02.Cars\obj\Debug\netcoreapp2.0\02.Cars.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\02.Cars\obj\Debug\netcoreapp2.0\02.Cars.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\02.Cars\obj\Debug\netcoreapp2.0\02.Cars.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\02.Cars\obj\Debug\netcoreapp2.0\02.Cars.dll
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\02.Cars\obj\Debug\netcoreapp2.0\02.Cars.pdb

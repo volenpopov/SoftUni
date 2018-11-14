@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\06.Animals\bin\Debug\netcoreapp2.0\06.Animals.deps.json
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\06.Animals\bin\Debug\netcoreapp2.0\06.Animals.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\06.Animals\bin\Debug\netcoreapp2.0\06.Animals.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\06.Animals\bin\Debug\netcoreapp2.0\06.Animals.dll
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\06.Animals\bin\Debug\netcoreapp2.0\06.Animals.pdb
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.dll
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\06.Animals\obj\Debug\netcoreapp2.0\06.Animals.pdb

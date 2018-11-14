@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\1.SortPersonsByNameAndAge\bin\Debug\netcoreapp2.0\1.SortPersonsByNameAndAge.deps.json
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\1.SortPersonsByNameAndAge\bin\Debug\netcoreapp2.0\1.SortPersonsByNameAndAge.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\1.SortPersonsByNameAndAge\bin\Debug\netcoreapp2.0\1.SortPersonsByNameAndAge.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\1.SortPersonsByNameAndAge\bin\Debug\netcoreapp2.0\1.SortPersonsByNameAndAge.dll
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\1.SortPersonsByNameAndAge\bin\Debug\netcoreapp2.0\1.SortPersonsByNameAndAge.pdb
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\1.SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\1.SortPersonsByNameAndAge.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\1.SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\1.SortPersonsByNameAndAge.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\1.SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\1.SortPersonsByNameAndAge.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\1.SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\1.SortPersonsByNameAndAge.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\1.SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\1.SortPersonsByNameAndAge.dll
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\1.SortPersonsByNameAndAge\obj\Debug\netcoreapp2.0\1.SortPersonsByNameAndAge.pdb

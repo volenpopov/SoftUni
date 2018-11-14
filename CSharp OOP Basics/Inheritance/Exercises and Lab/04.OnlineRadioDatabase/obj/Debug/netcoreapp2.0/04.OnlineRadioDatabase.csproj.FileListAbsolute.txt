@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\04.OnlineRadioDatabase\bin\Debug\netcoreapp2.0\04.OnlineRadioDatabase.deps.json
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\04.OnlineRadioDatabase\bin\Debug\netcoreapp2.0\04.OnlineRadioDatabase.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\04.OnlineRadioDatabase\bin\Debug\netcoreapp2.0\04.OnlineRadioDatabase.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\04.OnlineRadioDatabase\bin\Debug\netcoreapp2.0\04.OnlineRadioDatabase.dll
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\04.OnlineRadioDatabase\bin\Debug\netcoreapp2.0\04.OnlineRadioDatabase.pdb
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\04.OnlineRadioDatabase\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\04.OnlineRadioDatabase\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\04.OnlineRadioDatabase\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\04.OnlineRadioDatabase\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\04.OnlineRadioDatabase\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase.dll
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\04.OnlineRadioDatabase\obj\Debug\netcoreapp2.0\04.OnlineRadioDatabase.pdb

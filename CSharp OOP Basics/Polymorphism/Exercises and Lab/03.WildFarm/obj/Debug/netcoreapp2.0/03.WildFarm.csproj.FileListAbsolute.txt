@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Basics\Polymorphism\Polymorphism\03.WildFarm\bin\Debug\netcoreapp2.0\03.WildFarm.deps.json
+E:\Volen\Programming\C# OOP Basics\Polymorphism\Polymorphism\03.WildFarm\bin\Debug\netcoreapp2.0\03.WildFarm.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Polymorphism\Polymorphism\03.WildFarm\bin\Debug\netcoreapp2.0\03.WildFarm.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Polymorphism\Polymorphism\03.WildFarm\bin\Debug\netcoreapp2.0\03.WildFarm.dll
+E:\Volen\Programming\C# OOP Basics\Polymorphism\Polymorphism\03.WildFarm\bin\Debug\netcoreapp2.0\03.WildFarm.pdb
+E:\Volen\Programming\C# OOP Basics\Polymorphism\Polymorphism\03.WildFarm\obj\Debug\netcoreapp2.0\03.WildFarm.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Polymorphism\Polymorphism\03.WildFarm\obj\Debug\netcoreapp2.0\03.WildFarm.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Polymorphism\Polymorphism\03.WildFarm\obj\Debug\netcoreapp2.0\03.WildFarm.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Polymorphism\Polymorphism\03.WildFarm\obj\Debug\netcoreapp2.0\03.WildFarm.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Polymorphism\Polymorphism\03.WildFarm\obj\Debug\netcoreapp2.0\03.WildFarm.dll
+E:\Volen\Programming\C# OOP Basics\Polymorphism\Polymorphism\03.WildFarm\obj\Debug\netcoreapp2.0\03.WildFarm.pdb

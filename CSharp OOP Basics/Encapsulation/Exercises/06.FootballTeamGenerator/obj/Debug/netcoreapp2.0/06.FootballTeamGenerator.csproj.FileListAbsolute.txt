@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\06.FootballTeamGenerator\bin\Debug\netcoreapp2.0\06.FootballTeamGenerator.deps.json
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\06.FootballTeamGenerator\bin\Debug\netcoreapp2.0\06.FootballTeamGenerator.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\06.FootballTeamGenerator\bin\Debug\netcoreapp2.0\06.FootballTeamGenerator.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\06.FootballTeamGenerator\bin\Debug\netcoreapp2.0\06.FootballTeamGenerator.dll
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\06.FootballTeamGenerator\bin\Debug\netcoreapp2.0\06.FootballTeamGenerator.pdb
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\06.FootballTeamGenerator\obj\Debug\netcoreapp2.0\06.FootballTeamGenerator.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\06.FootballTeamGenerator\obj\Debug\netcoreapp2.0\06.FootballTeamGenerator.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\06.FootballTeamGenerator\obj\Debug\netcoreapp2.0\06.FootballTeamGenerator.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\06.FootballTeamGenerator\obj\Debug\netcoreapp2.0\06.FootballTeamGenerator.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\06.FootballTeamGenerator\obj\Debug\netcoreapp2.0\06.FootballTeamGenerator.dll
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\06.FootballTeamGenerator\obj\Debug\netcoreapp2.0\06.FootballTeamGenerator.pdb

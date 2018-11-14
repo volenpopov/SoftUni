@@ -1,0 +1,10 @@
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.deps.json
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.dll
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.pdb
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.dll
+E:\Volen\Programming\C# OOP Basics\Encapsulation\Encapsulation\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.pdb

@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\01.Person\bin\Debug\netcoreapp2.0\01.Person.deps.json
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\01.Person\bin\Debug\netcoreapp2.0\01.Person.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\01.Person\bin\Debug\netcoreapp2.0\01.Person.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\01.Person\bin\Debug\netcoreapp2.0\01.Person.dll
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\01.Person\bin\Debug\netcoreapp2.0\01.Person.pdb
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\01.Person\obj\Debug\netcoreapp2.0\01.Person.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\01.Person\obj\Debug\netcoreapp2.0\01.Person.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\01.Person\obj\Debug\netcoreapp2.0\01.Person.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\01.Person\obj\Debug\netcoreapp2.0\01.Person.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\01.Person\obj\Debug\netcoreapp2.0\01.Person.dll
+E:\Volen\Programming\C# OOP Basics\Inheritance\Inheritance\01.Person\obj\Debug\netcoreapp2.0\01.Person.pdb

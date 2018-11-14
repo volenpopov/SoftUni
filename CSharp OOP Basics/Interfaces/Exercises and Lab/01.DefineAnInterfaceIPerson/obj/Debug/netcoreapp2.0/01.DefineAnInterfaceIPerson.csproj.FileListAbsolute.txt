@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.deps.json
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.dll
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\01.DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.pdb
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.dll
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\01.DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.0\01.DefineAnInterfaceIPerson.pdb

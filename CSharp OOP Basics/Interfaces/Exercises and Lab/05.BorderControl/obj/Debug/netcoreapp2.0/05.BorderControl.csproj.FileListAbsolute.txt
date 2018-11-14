@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.deps.json
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.runtimeconfig.json
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.dll
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\05.BorderControl\bin\Debug\netcoreapp2.0\05.BorderControl.pdb
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.dll
+E:\Volen\Programming\C# OOP Basics\Interfaces\Interfaces\05.BorderControl\obj\Debug\netcoreapp2.0\05.BorderControl.pdb
