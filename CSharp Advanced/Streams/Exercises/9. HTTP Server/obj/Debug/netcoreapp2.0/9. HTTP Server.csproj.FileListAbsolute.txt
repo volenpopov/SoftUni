@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\9. HTTP Server\bin\Debug\netcoreapp2.0\9. HTTP Server.deps.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\9. HTTP Server\bin\Debug\netcoreapp2.0\9. HTTP Server.runtimeconfig.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\9. HTTP Server\bin\Debug\netcoreapp2.0\9. HTTP Server.runtimeconfig.dev.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\9. HTTP Server\bin\Debug\netcoreapp2.0\9. HTTP Server.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\9. HTTP Server\bin\Debug\netcoreapp2.0\9. HTTP Server.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\9. HTTP Server\obj\Debug\netcoreapp2.0\9. HTTP Server.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\9. HTTP Server\obj\Debug\netcoreapp2.0\9. HTTP Server.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\9. HTTP Server\obj\Debug\netcoreapp2.0\9. HTTP Server.AssemblyInfo.cs
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\9. HTTP Server\obj\Debug\netcoreapp2.0\9. HTTP Server.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\9. HTTP Server\obj\Debug\netcoreapp2.0\9. HTTP Server.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\9. HTTP Server\obj\Debug\netcoreapp2.0\9. HTTP Server.csprojResolveAssemblyReference.cache

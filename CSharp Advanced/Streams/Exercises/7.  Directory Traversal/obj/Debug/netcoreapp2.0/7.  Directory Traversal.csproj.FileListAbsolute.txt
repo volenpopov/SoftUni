@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\7.  Directory Traversal\bin\Debug\netcoreapp2.0\7.  Directory Traversal.deps.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\7.  Directory Traversal\bin\Debug\netcoreapp2.0\7.  Directory Traversal.runtimeconfig.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\7.  Directory Traversal\bin\Debug\netcoreapp2.0\7.  Directory Traversal.runtimeconfig.dev.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\7.  Directory Traversal\bin\Debug\netcoreapp2.0\7.  Directory Traversal.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\7.  Directory Traversal\bin\Debug\netcoreapp2.0\7.  Directory Traversal.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\7.  Directory Traversal\obj\Debug\netcoreapp2.0\7.  Directory Traversal.csprojResolveAssemblyReference.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\7.  Directory Traversal\obj\Debug\netcoreapp2.0\7.  Directory Traversal.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\7.  Directory Traversal\obj\Debug\netcoreapp2.0\7.  Directory Traversal.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\7.  Directory Traversal\obj\Debug\netcoreapp2.0\7.  Directory Traversal.AssemblyInfo.cs
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\7.  Directory Traversal\obj\Debug\netcoreapp2.0\7.  Directory Traversal.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\07. Streams\Streams\7.  Directory Traversal\obj\Debug\netcoreapp2.0\7.  Directory Traversal.pdb
