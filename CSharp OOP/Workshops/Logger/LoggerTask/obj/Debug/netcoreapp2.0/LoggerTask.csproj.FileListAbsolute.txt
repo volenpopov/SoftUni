@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\Solid\Logger\LoggerTask\LoggerTask\obj\Debug\netcoreapp2.0\LoggerTask.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Advanced\Solid\Logger\LoggerTask\LoggerTask\obj\Debug\netcoreapp2.0\LoggerTask.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Solid\Logger\LoggerTask\LoggerTask\obj\Debug\netcoreapp2.0\LoggerTask.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Solid\Logger\LoggerTask\LoggerTask\obj\Debug\netcoreapp2.0\LoggerTask.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\Solid\Logger\LoggerTask\LoggerTask\bin\Debug\netcoreapp2.0\LoggerTask.deps.json
+E:\Volen\Programming\C# OOP Advanced\Solid\Logger\LoggerTask\LoggerTask\bin\Debug\netcoreapp2.0\LoggerTask.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\Solid\Logger\LoggerTask\LoggerTask\bin\Debug\netcoreapp2.0\LoggerTask.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\Solid\Logger\LoggerTask\LoggerTask\bin\Debug\netcoreapp2.0\LoggerTask.dll
+E:\Volen\Programming\C# OOP Advanced\Solid\Logger\LoggerTask\LoggerTask\bin\Debug\netcoreapp2.0\LoggerTask.pdb
+E:\Volen\Programming\C# OOP Advanced\Solid\Logger\LoggerTask\LoggerTask\obj\Debug\netcoreapp2.0\LoggerTask.dll
+E:\Volen\Programming\C# OOP Advanced\Solid\Logger\LoggerTask\LoggerTask\obj\Debug\netcoreapp2.0\LoggerTask.pdb
