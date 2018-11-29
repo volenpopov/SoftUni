@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\02.Collection\bin\Debug\netcoreapp2.0\02.Collection.deps.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\02.Collection\bin\Debug\netcoreapp2.0\02.Collection.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\02.Collection\bin\Debug\netcoreapp2.0\02.Collection.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\02.Collection\bin\Debug\netcoreapp2.0\02.Collection.dll
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\02.Collection\bin\Debug\netcoreapp2.0\02.Collection.pdb
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.dll
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.pdb
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\02.Collection\obj\Debug\netcoreapp2.0\02.Collection.csprojAssemblyReference.cache

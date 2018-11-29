@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\07.EqualityLogic\bin\Debug\netcoreapp2.0\07.EqualityLogic.deps.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\07.EqualityLogic\bin\Debug\netcoreapp2.0\07.EqualityLogic.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\07.EqualityLogic\bin\Debug\netcoreapp2.0\07.EqualityLogic.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\07.EqualityLogic\bin\Debug\netcoreapp2.0\07.EqualityLogic.dll
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\07.EqualityLogic\bin\Debug\netcoreapp2.0\07.EqualityLogic.pdb
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\07.EqualityLogic\obj\Debug\netcoreapp2.0\07.EqualityLogic.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\07.EqualityLogic\obj\Debug\netcoreapp2.0\07.EqualityLogic.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\07.EqualityLogic\obj\Debug\netcoreapp2.0\07.EqualityLogic.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\07.EqualityLogic\obj\Debug\netcoreapp2.0\07.EqualityLogic.dll
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\07.EqualityLogic\obj\Debug\netcoreapp2.0\07.EqualityLogic.pdb
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\07.EqualityLogic\obj\Debug\netcoreapp2.0\07.EqualityLogic.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\08.PetClinic\bin\Debug\netcoreapp2.0\08.PetClinic.deps.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\08.PetClinic\bin\Debug\netcoreapp2.0\08.PetClinic.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\08.PetClinic\bin\Debug\netcoreapp2.0\08.PetClinic.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\08.PetClinic\bin\Debug\netcoreapp2.0\08.PetClinic.dll
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\08.PetClinic\bin\Debug\netcoreapp2.0\08.PetClinic.pdb
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.dll
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\08.PetClinic\obj\Debug\netcoreapp2.0\08.PetClinic.pdb

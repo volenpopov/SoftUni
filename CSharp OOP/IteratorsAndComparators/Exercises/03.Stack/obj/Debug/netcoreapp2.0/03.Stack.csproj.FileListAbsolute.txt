@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\03.Stack\obj\Debug\netcoreapp2.0\03.Stack.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\03.Stack\obj\Debug\netcoreapp2.0\03.Stack.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\03.Stack\obj\Debug\netcoreapp2.0\03.Stack.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\03.Stack\obj\Debug\netcoreapp2.0\03.Stack.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\03.Stack\bin\Debug\netcoreapp2.0\03.Stack.deps.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\03.Stack\bin\Debug\netcoreapp2.0\03.Stack.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\03.Stack\bin\Debug\netcoreapp2.0\03.Stack.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\03.Stack\bin\Debug\netcoreapp2.0\03.Stack.dll
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\03.Stack\bin\Debug\netcoreapp2.0\03.Stack.pdb
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\03.Stack\obj\Debug\netcoreapp2.0\03.Stack.dll
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\03.Stack\obj\Debug\netcoreapp2.0\03.Stack.pdb

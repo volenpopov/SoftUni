@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\05.ComparingObjects\bin\Debug\netcoreapp2.0\05.ComparingObjects.deps.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\05.ComparingObjects\bin\Debug\netcoreapp2.0\05.ComparingObjects.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\05.ComparingObjects\bin\Debug\netcoreapp2.0\05.ComparingObjects.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\05.ComparingObjects\bin\Debug\netcoreapp2.0\05.ComparingObjects.dll
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\05.ComparingObjects\bin\Debug\netcoreapp2.0\05.ComparingObjects.pdb
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\05.ComparingObjects\obj\Debug\netcoreapp2.0\05.ComparingObjects.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\05.ComparingObjects\obj\Debug\netcoreapp2.0\05.ComparingObjects.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\05.ComparingObjects\obj\Debug\netcoreapp2.0\05.ComparingObjects.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\05.ComparingObjects\obj\Debug\netcoreapp2.0\05.ComparingObjects.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\05.ComparingObjects\obj\Debug\netcoreapp2.0\05.ComparingObjects.dll
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\05.ComparingObjects\obj\Debug\netcoreapp2.0\05.ComparingObjects.pdb

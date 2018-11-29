@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\04.BookComparer-Lab\bin\Debug\netcoreapp2.0\04.BookComparer-Lab.deps.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\04.BookComparer-Lab\bin\Debug\netcoreapp2.0\04.BookComparer-Lab.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\04.BookComparer-Lab\bin\Debug\netcoreapp2.0\04.BookComparer-Lab.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\04.BookComparer-Lab\bin\Debug\netcoreapp2.0\04.BookComparer-Lab.dll
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\04.BookComparer-Lab\bin\Debug\netcoreapp2.0\04.BookComparer-Lab.pdb
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\04.BookComparer-Lab\obj\Debug\netcoreapp2.0\04.BookComparer-Lab.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\04.BookComparer-Lab\obj\Debug\netcoreapp2.0\04.BookComparer-Lab.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\04.BookComparer-Lab\obj\Debug\netcoreapp2.0\04.BookComparer-Lab.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\04.BookComparer-Lab\obj\Debug\netcoreapp2.0\04.BookComparer-Lab.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\04.BookComparer-Lab\obj\Debug\netcoreapp2.0\04.BookComparer-Lab.dll
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\04.BookComparer-Lab\obj\Debug\netcoreapp2.0\04.BookComparer-Lab.pdb

@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\06.StrategyPattern\bin\Debug\netcoreapp2.0\06.StrategyPattern.deps.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\06.StrategyPattern\bin\Debug\netcoreapp2.0\06.StrategyPattern.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\06.StrategyPattern\bin\Debug\netcoreapp2.0\06.StrategyPattern.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\06.StrategyPattern\bin\Debug\netcoreapp2.0\06.StrategyPattern.dll
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\06.StrategyPattern\bin\Debug\netcoreapp2.0\06.StrategyPattern.pdb
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\06.StrategyPattern\obj\Debug\netcoreapp2.0\06.StrategyPattern.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\06.StrategyPattern\obj\Debug\netcoreapp2.0\06.StrategyPattern.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\06.StrategyPattern\obj\Debug\netcoreapp2.0\06.StrategyPattern.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\06.StrategyPattern\obj\Debug\netcoreapp2.0\06.StrategyPattern.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\06.StrategyPattern\obj\Debug\netcoreapp2.0\06.StrategyPattern.dll
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\06.StrategyPattern\obj\Debug\netcoreapp2.0\06.StrategyPattern.pdb
