@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\09.LinkedListTraversal\bin\Debug\netcoreapp2.1\09.LinkedListTraversal.deps.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\09.LinkedListTraversal\bin\Debug\netcoreapp2.1\09.LinkedListTraversal.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\09.LinkedListTraversal\bin\Debug\netcoreapp2.1\09.LinkedListTraversal.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\09.LinkedListTraversal\bin\Debug\netcoreapp2.1\09.LinkedListTraversal.dll
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\09.LinkedListTraversal\bin\Debug\netcoreapp2.1\09.LinkedListTraversal.pdb
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\09.LinkedListTraversal\obj\Debug\netcoreapp2.1\09.LinkedListTraversal.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\09.LinkedListTraversal\obj\Debug\netcoreapp2.1\09.LinkedListTraversal.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\09.LinkedListTraversal\obj\Debug\netcoreapp2.1\09.LinkedListTraversal.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\09.LinkedListTraversal\obj\Debug\netcoreapp2.1\09.LinkedListTraversal.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\09.LinkedListTraversal\obj\Debug\netcoreapp2.1\09.LinkedListTraversal.dll
+E:\Volen\Programming\C# OOP Advanced\Iterators and comparators\IteratorsAndComparators\09.LinkedListTraversal\obj\Debug\netcoreapp2.1\09.LinkedListTraversal.pdb
