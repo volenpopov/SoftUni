@@ -1,0 +1,22 @@
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\5. Rubiks Matrix\bin\Debug\netcoreapp2.0\5. Rubiks Matrix.deps.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\5. Rubiks Matrix\bin\Debug\netcoreapp2.0\5. Rubiks Matrix.runtimeconfig.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\5. Rubiks Matrix\bin\Debug\netcoreapp2.0\5. Rubiks Matrix.runtimeconfig.dev.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\5. Rubiks Matrix\bin\Debug\netcoreapp2.0\5. Rubiks Matrix.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\5. Rubiks Matrix\bin\Debug\netcoreapp2.0\5. Rubiks Matrix.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.csprojResolveAssemblyReference.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.AssemblyInfo.cs
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.pdb
+E:\Volen\Programming\C# Adavanced\05. Multidimensional Arrays\Multidimensional Arrays\5. Rubiks Matrix\bin\Debug\netcoreapp2.0\5. Rubiks Matrix.deps.json
+E:\Volen\Programming\C# Adavanced\05. Multidimensional Arrays\Multidimensional Arrays\5. Rubiks Matrix\bin\Debug\netcoreapp2.0\5. Rubiks Matrix.runtimeconfig.json
+E:\Volen\Programming\C# Adavanced\05. Multidimensional Arrays\Multidimensional Arrays\5. Rubiks Matrix\bin\Debug\netcoreapp2.0\5. Rubiks Matrix.runtimeconfig.dev.json
+E:\Volen\Programming\C# Adavanced\05. Multidimensional Arrays\Multidimensional Arrays\5. Rubiks Matrix\bin\Debug\netcoreapp2.0\5. Rubiks Matrix.dll
+E:\Volen\Programming\C# Adavanced\05. Multidimensional Arrays\Multidimensional Arrays\5. Rubiks Matrix\bin\Debug\netcoreapp2.0\5. Rubiks Matrix.pdb
+E:\Volen\Programming\C# Adavanced\05. Multidimensional Arrays\Multidimensional Arrays\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.csprojAssemblyReference.cache
+E:\Volen\Programming\C# Adavanced\05. Multidimensional Arrays\Multidimensional Arrays\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Adavanced\05. Multidimensional Arrays\Multidimensional Arrays\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Adavanced\05. Multidimensional Arrays\Multidimensional Arrays\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.AssemblyInfo.cs
+E:\Volen\Programming\C# Adavanced\05. Multidimensional Arrays\Multidimensional Arrays\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.dll
+E:\Volen\Programming\C# Adavanced\05. Multidimensional Arrays\Multidimensional Arrays\5. Rubiks Matrix\obj\Debug\netcoreapp2.0\5. Rubiks Matrix.pdb

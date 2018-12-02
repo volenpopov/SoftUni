@@ -1,0 +1,7 @@
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\1. Reverse Strings\bin\Debug\_1.Reverse_Strings.exe.config
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\1. Reverse Strings\bin\Debug\_1.Reverse_Strings.exe
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\1. Reverse Strings\bin\Debug\_1.Reverse_Strings.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\1. Reverse Strings\obj\Debug\1. Reverse Strings.csprojResolveAssemblyReference.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\1. Reverse Strings\obj\Debug\1. Reverse Strings.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\1. Reverse Strings\obj\Debug\_1.Reverse_Strings.exe
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\1. Reverse Strings\obj\Debug\_1.Reverse_Strings.pdb

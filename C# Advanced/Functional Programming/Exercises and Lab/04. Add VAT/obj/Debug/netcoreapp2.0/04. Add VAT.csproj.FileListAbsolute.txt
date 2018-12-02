@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\04. Add VAT\bin\Debug\netcoreapp2.0\04. Add VAT.deps.json
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\04. Add VAT\bin\Debug\netcoreapp2.0\04. Add VAT.runtimeconfig.json
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\04. Add VAT\bin\Debug\netcoreapp2.0\04. Add VAT.runtimeconfig.dev.json
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\04. Add VAT\bin\Debug\netcoreapp2.0\04. Add VAT.dll
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\04. Add VAT\bin\Debug\netcoreapp2.0\04. Add VAT.pdb
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\04. Add VAT\obj\Debug\netcoreapp2.0\04. Add VAT.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\04. Add VAT\obj\Debug\netcoreapp2.0\04. Add VAT.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\04. Add VAT\obj\Debug\netcoreapp2.0\04. Add VAT.AssemblyInfo.cs
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\04. Add VAT\obj\Debug\netcoreapp2.0\04. Add VAT.dll
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\04. Add VAT\obj\Debug\netcoreapp2.0\04. Add VAT.pdb
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\04. Add VAT\obj\Debug\netcoreapp2.0\04. Add VAT.csprojResolveAssemblyReference.cache

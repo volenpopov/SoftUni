@@ -1,0 +1,7 @@
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\4. Matching Brackets\obj\Debug\4. Matching Brackets.csprojResolveAssemblyReference.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\4. Matching Brackets\obj\Debug\4. Matching Brackets.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.exe.config
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.exe
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\4. Matching Brackets\bin\Debug\_4.Matching_Brackets.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\4. Matching Brackets\obj\Debug\_4.Matching_Brackets.exe
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\4. Matching Brackets\obj\Debug\_4.Matching_Brackets.pdb

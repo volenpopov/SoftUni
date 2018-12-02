@@ -1,7 +1,0 @@
-E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\02. Basic Stack Operations\bin\Debug\_02.Basic_Stack_Operations.exe.config
-E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\02. Basic Stack Operations\bin\Debug\_02.Basic_Stack_Operations.exe
-E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\02. Basic Stack Operations\bin\Debug\_02.Basic_Stack_Operations.pdb
-E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\02. Basic Stack Operations\obj\Debug\02. Basic Stack Operations.csprojResolveAssemblyReference.cache
-E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\02. Basic Stack Operations\obj\Debug\02. Basic Stack Operations.csproj.CoreCompileInputs.cache
-E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\02. Basic Stack Operations\obj\Debug\_02.Basic_Stack_Operations.exe
-E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\02. Basic Stack Operations\obj\Debug\_02.Basic_Stack_Operations.pdb

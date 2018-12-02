@@ -1,0 +1,13 @@
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\6. Traffic Jam\bin\Debug\_6.Traffic_Jam.exe.config
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\6. Traffic Jam\bin\Debug\_6.Traffic_Jam.exe
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\6. Traffic Jam\bin\Debug\_6.Traffic_Jam.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\6. Traffic Jam\obj\Debug\6. Traffic Jam.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\6. Traffic Jam\obj\Debug\_6.Traffic_Jam.exe
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\6. Traffic Jam\obj\Debug\_6.Traffic_Jam.pdb
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\6. Traffic Jam\bin\Debug\_6.Traffic_Jam.exe.config
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\6. Traffic Jam\bin\Debug\_6.Traffic_Jam.exe
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\6. Traffic Jam\bin\Debug\_6.Traffic_Jam.pdb
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\6. Traffic Jam\obj\Debug\6. Traffic Jam.csprojAssemblyReference.cache
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\6. Traffic Jam\obj\Debug\6. Traffic Jam.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\6. Traffic Jam\obj\Debug\_6.Traffic_Jam.exe
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\6. Traffic Jam\obj\Debug\_6.Traffic_Jam.pdb

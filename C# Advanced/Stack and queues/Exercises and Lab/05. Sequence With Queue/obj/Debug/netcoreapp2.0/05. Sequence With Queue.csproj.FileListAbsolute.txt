@@ -1,0 +1,22 @@
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.deps.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.runtimeconfig.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.runtimeconfig.dev.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.csprojResolveAssemblyReference.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.AssemblyInfo.cs
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.pdb
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.deps.json
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.runtimeconfig.json
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.runtimeconfig.dev.json
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.dll
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\05. Sequence With Queue\bin\Debug\netcoreapp2.0\05. Sequence With Queue.pdb
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.csprojAssemblyReference.cache
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.AssemblyInfo.cs
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.dll
+E:\Volen\Programming\C# Adavanced\03. Stack and queues\Stack and Queues\05. Sequence With Queue\obj\Debug\netcoreapp2.0\05. Sequence With Queue.pdb

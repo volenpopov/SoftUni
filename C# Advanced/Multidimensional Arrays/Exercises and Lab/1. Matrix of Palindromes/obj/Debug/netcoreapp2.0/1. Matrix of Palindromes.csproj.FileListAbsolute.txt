@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\1. Matrix of Palindromes\bin\Debug\netcoreapp2.0\1. Matrix of Palindromes.deps.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\1. Matrix of Palindromes\bin\Debug\netcoreapp2.0\1. Matrix of Palindromes.runtimeconfig.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\1. Matrix of Palindromes\bin\Debug\netcoreapp2.0\1. Matrix of Palindromes.runtimeconfig.dev.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\1. Matrix of Palindromes\bin\Debug\netcoreapp2.0\1. Matrix of Palindromes.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\1. Matrix of Palindromes\bin\Debug\netcoreapp2.0\1. Matrix of Palindromes.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\1. Matrix of Palindromes\obj\Debug\netcoreapp2.0\1. Matrix of Palindromes.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\1. Matrix of Palindromes\obj\Debug\netcoreapp2.0\1. Matrix of Palindromes.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\1. Matrix of Palindromes\obj\Debug\netcoreapp2.0\1. Matrix of Palindromes.AssemblyInfo.cs
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\1. Matrix of Palindromes\obj\Debug\netcoreapp2.0\1. Matrix of Palindromes.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\1. Matrix of Palindromes\obj\Debug\netcoreapp2.0\1. Matrix of Palindromes.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\1. Matrix of Palindromes\obj\Debug\netcoreapp2.0\1. Matrix of Palindromes.csprojResolveAssemblyReference.cache

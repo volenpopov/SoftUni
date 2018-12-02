@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\7. Lego Blocks\bin\Debug\netcoreapp2.0\7. Lego Blocks.deps.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\7. Lego Blocks\bin\Debug\netcoreapp2.0\7. Lego Blocks.runtimeconfig.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\7. Lego Blocks\bin\Debug\netcoreapp2.0\7. Lego Blocks.runtimeconfig.dev.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\7. Lego Blocks\bin\Debug\netcoreapp2.0\7. Lego Blocks.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\7. Lego Blocks\bin\Debug\netcoreapp2.0\7. Lego Blocks.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\7. Lego Blocks\obj\Debug\netcoreapp2.0\7. Lego Blocks.csprojResolveAssemblyReference.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\7. Lego Blocks\obj\Debug\netcoreapp2.0\7. Lego Blocks.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\7. Lego Blocks\obj\Debug\netcoreapp2.0\7. Lego Blocks.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\7. Lego Blocks\obj\Debug\netcoreapp2.0\7. Lego Blocks.AssemblyInfo.cs
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\7. Lego Blocks\obj\Debug\netcoreapp2.0\7. Lego Blocks.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\7. Lego Blocks\obj\Debug\netcoreapp2.0\7. Lego Blocks.pdb

@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\3. Count Uppeercase Words\bin\Debug\netcoreapp2.0\3. Count Uppeercase Words.deps.json
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\3. Count Uppeercase Words\bin\Debug\netcoreapp2.0\3. Count Uppeercase Words.runtimeconfig.json
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\3. Count Uppeercase Words\bin\Debug\netcoreapp2.0\3. Count Uppeercase Words.runtimeconfig.dev.json
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\3. Count Uppeercase Words\bin\Debug\netcoreapp2.0\3. Count Uppeercase Words.dll
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\3. Count Uppeercase Words\bin\Debug\netcoreapp2.0\3. Count Uppeercase Words.pdb
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\3. Count Uppeercase Words\obj\Debug\netcoreapp2.0\3. Count Uppeercase Words.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\3. Count Uppeercase Words\obj\Debug\netcoreapp2.0\3. Count Uppeercase Words.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\3. Count Uppeercase Words\obj\Debug\netcoreapp2.0\3. Count Uppeercase Words.AssemblyInfo.cs
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\3. Count Uppeercase Words\obj\Debug\netcoreapp2.0\3. Count Uppeercase Words.dll
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\3. Count Uppeercase Words\obj\Debug\netcoreapp2.0\3. Count Uppeercase Words.pdb
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\3. Count Uppeercase Words\obj\Debug\netcoreapp2.0\3. Count Uppeercase Words.csprojResolveAssemblyReference.cache

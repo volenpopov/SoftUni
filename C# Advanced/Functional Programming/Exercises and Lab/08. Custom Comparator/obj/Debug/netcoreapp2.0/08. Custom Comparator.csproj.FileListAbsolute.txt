@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\08. Custom Comparator\bin\Debug\netcoreapp2.0\08. Custom Comparator.deps.json
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\08. Custom Comparator\bin\Debug\netcoreapp2.0\08. Custom Comparator.runtimeconfig.json
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\08. Custom Comparator\bin\Debug\netcoreapp2.0\08. Custom Comparator.runtimeconfig.dev.json
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\08. Custom Comparator\bin\Debug\netcoreapp2.0\08. Custom Comparator.dll
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\08. Custom Comparator\bin\Debug\netcoreapp2.0\08. Custom Comparator.pdb
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\08. Custom Comparator\obj\Debug\netcoreapp2.0\08. Custom Comparator.csprojResolveAssemblyReference.cache
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\08. Custom Comparator\obj\Debug\netcoreapp2.0\08. Custom Comparator.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\08. Custom Comparator\obj\Debug\netcoreapp2.0\08. Custom Comparator.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\08. Custom Comparator\obj\Debug\netcoreapp2.0\08. Custom Comparator.AssemblyInfo.cs
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\08. Custom Comparator\obj\Debug\netcoreapp2.0\08. Custom Comparator.dll
+E:\Volen\Programming\C# Advanced\09. Functional Programming\Functional Programming\08. Custom Comparator\obj\Debug\netcoreapp2.0\08. Custom Comparator.pdb

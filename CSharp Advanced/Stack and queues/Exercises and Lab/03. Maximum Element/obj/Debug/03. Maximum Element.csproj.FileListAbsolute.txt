@@ -1,7 +1,0 @@
-E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\03. Maximum Element\bin\Debug\_03.Maximum_Element.exe.config
-E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\03. Maximum Element\bin\Debug\_03.Maximum_Element.exe
-E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\03. Maximum Element\bin\Debug\_03.Maximum_Element.pdb
-E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\03. Maximum Element\obj\Debug\03. Maximum Element.csproj.CoreCompileInputs.cache
-E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\03. Maximum Element\obj\Debug\_03.Maximum_Element.exe
-E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\03. Maximum Element\obj\Debug\_03.Maximum_Element.pdb
-E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\03. Maximum Element\obj\Debug\03. Maximum Element.csprojResolveAssemblyReference.cache

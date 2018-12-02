@@ -1,7 +1,0 @@
-E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\2. Simple Calculator\bin\Debug\_2.Simple_Calculator.exe.config
-E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\2. Simple Calculator\bin\Debug\_2.Simple_Calculator.exe
-E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\2. Simple Calculator\bin\Debug\_2.Simple_Calculator.pdb
-E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\2. Simple Calculator\obj\Debug\2. Simple Calculator.csprojResolveAssemblyReference.cache
-E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\2. Simple Calculator\obj\Debug\2. Simple Calculator.csproj.CoreCompileInputs.cache
-E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\2. Simple Calculator\obj\Debug\_2.Simple_Calculator.exe
-E:\Volen\Programming\C# Fundamentals\C# Advanced\03. Stack and queues\Stack and Queues\2. Simple Calculator\obj\Debug\_2.Simple_Calculator.pdb

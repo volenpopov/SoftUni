@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\2. Square With Maximum Sum\bin\Debug\netcoreapp2.0\2. Square With Maximum Sum.deps.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\2. Square With Maximum Sum\bin\Debug\netcoreapp2.0\2. Square With Maximum Sum.runtimeconfig.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\2. Square With Maximum Sum\bin\Debug\netcoreapp2.0\2. Square With Maximum Sum.runtimeconfig.dev.json
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\2. Square With Maximum Sum\bin\Debug\netcoreapp2.0\2. Square With Maximum Sum.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\2. Square With Maximum Sum\bin\Debug\netcoreapp2.0\2. Square With Maximum Sum.pdb
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\2. Square With Maximum Sum\obj\Debug\netcoreapp2.0\2. Square With Maximum Sum.csprojResolveAssemblyReference.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\2. Square With Maximum Sum\obj\Debug\netcoreapp2.0\2. Square With Maximum Sum.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\2. Square With Maximum Sum\obj\Debug\netcoreapp2.0\2. Square With Maximum Sum.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\2. Square With Maximum Sum\obj\Debug\netcoreapp2.0\2. Square With Maximum Sum.AssemblyInfo.cs
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\2. Square With Maximum Sum\obj\Debug\netcoreapp2.0\2. Square With Maximum Sum.dll
+E:\Volen\Programming\C# Fundamentals\C# Advanced\05. Multidimensional Arrays\Multidimensional Arrays\2. Square With Maximum Sum\obj\Debug\netcoreapp2.0\2. Square With Maximum Sum.pdb
