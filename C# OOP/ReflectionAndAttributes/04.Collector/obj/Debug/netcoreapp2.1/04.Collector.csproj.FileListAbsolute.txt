@@ -1,0 +1,10 @@
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\04.Collector\bin\Debug\netcoreapp2.1\04.Collector.deps.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\04.Collector\bin\Debug\netcoreapp2.1\04.Collector.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\04.Collector\bin\Debug\netcoreapp2.1\04.Collector.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\04.Collector\bin\Debug\netcoreapp2.1\04.Collector.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\04.Collector\bin\Debug\netcoreapp2.1\04.Collector.pdb
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\04.Collector\obj\Debug\netcoreapp2.1\04.Collector.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\04.Collector\obj\Debug\netcoreapp2.1\04.Collector.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\04.Collector\obj\Debug\netcoreapp2.1\04.Collector.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\04.Collector\obj\Debug\netcoreapp2.1\04.Collector.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\04.Collector\obj\Debug\netcoreapp2.1\04.Collector.pdb

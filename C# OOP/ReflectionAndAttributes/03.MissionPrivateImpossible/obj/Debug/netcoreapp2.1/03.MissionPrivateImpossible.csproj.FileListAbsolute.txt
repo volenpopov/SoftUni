@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.1\03.MissionPrivateImpossible.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.1\03.MissionPrivateImpossible.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.1\03.MissionPrivateImpossible.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.1\03.MissionPrivateImpossible.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp2.1\03.MissionPrivateImpossible.deps.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp2.1\03.MissionPrivateImpossible.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp2.1\03.MissionPrivateImpossible.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp2.1\03.MissionPrivateImpossible.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp2.1\03.MissionPrivateImpossible.pdb
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.1\03.MissionPrivateImpossible.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.1\03.MissionPrivateImpossible.pdb

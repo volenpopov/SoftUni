@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\01.Stealer\bin\Debug\netcoreapp2.1\01.Stealer-Lab.deps.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\01.Stealer\bin\Debug\netcoreapp2.1\01.Stealer-Lab.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\01.Stealer\bin\Debug\netcoreapp2.1\01.Stealer-Lab.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\01.Stealer\bin\Debug\netcoreapp2.1\01.Stealer-Lab.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\01.Stealer\bin\Debug\netcoreapp2.1\01.Stealer-Lab.pdb
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\01.Stealer\obj\Debug\netcoreapp2.1\01.Stealer-Lab.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\01.Stealer\obj\Debug\netcoreapp2.1\01.Stealer-Lab.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\01.Stealer\obj\Debug\netcoreapp2.1\01.Stealer-Lab.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\01.Stealer\obj\Debug\netcoreapp2.1\01.Stealer-Lab.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\01.Stealer\obj\Debug\netcoreapp2.1\01.Stealer-Lab.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\01.Stealer\obj\Debug\netcoreapp2.1\01.Stealer-Lab.pdb
