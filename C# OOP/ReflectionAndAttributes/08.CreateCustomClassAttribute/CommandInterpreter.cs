@@ -24,7 +24,8 @@ public class CommandInterpreter
 
             if (param.ParameterType.IsAssignableFrom(typeof(string[])))
                 constructorArgs[i] = data;
-            else
+
+            else if (param.ParameterType.IsAssignableFrom(weapons.GetType()))
                 constructorArgs[i] = weapons;
         }
               
