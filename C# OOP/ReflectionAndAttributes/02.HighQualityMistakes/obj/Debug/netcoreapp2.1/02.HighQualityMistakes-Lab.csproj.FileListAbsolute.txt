@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\02.HighQualityMistakes\bin\Debug\netcoreapp2.1\02.HighQualityMistakes-Lab.deps.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\02.HighQualityMistakes\bin\Debug\netcoreapp2.1\02.HighQualityMistakes-Lab.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\02.HighQualityMistakes\bin\Debug\netcoreapp2.1\02.HighQualityMistakes-Lab.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\02.HighQualityMistakes\bin\Debug\netcoreapp2.1\02.HighQualityMistakes-Lab.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\02.HighQualityMistakes\bin\Debug\netcoreapp2.1\02.HighQualityMistakes-Lab.pdb
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\02.HighQualityMistakes\obj\Debug\netcoreapp2.1\02.HighQualityMistakes-Lab.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\02.HighQualityMistakes\obj\Debug\netcoreapp2.1\02.HighQualityMistakes-Lab.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\02.HighQualityMistakes\obj\Debug\netcoreapp2.1\02.HighQualityMistakes-Lab.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\02.HighQualityMistakes\obj\Debug\netcoreapp2.1\02.HighQualityMistakes-Lab.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\02.HighQualityMistakes\obj\Debug\netcoreapp2.1\02.HighQualityMistakes-Lab.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\02.HighQualityMistakes\obj\Debug\netcoreapp2.1\02.HighQualityMistakes-Lab.pdb

@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\04.BarrackWars-TheCommandsStrikeBack\bin\Debug\netcoreapp2.1\04.BarrackWars-TheCommandsStrikeBack.deps.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\04.BarrackWars-TheCommandsStrikeBack\bin\Debug\netcoreapp2.1\04.BarrackWars-TheCommandsStrikeBack.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\04.BarrackWars-TheCommandsStrikeBack\bin\Debug\netcoreapp2.1\04.BarrackWars-TheCommandsStrikeBack.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\04.BarrackWars-TheCommandsStrikeBack\bin\Debug\netcoreapp2.1\04.BarrackWars-TheCommandsStrikeBack.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\04.BarrackWars-TheCommandsStrikeBack\bin\Debug\netcoreapp2.1\04.BarrackWars-TheCommandsStrikeBack.pdb
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\04.BarrackWars-TheCommandsStrikeBack\obj\Debug\netcoreapp2.1\04.BarrackWars-TheCommandsStrikeBack.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\04.BarrackWars-TheCommandsStrikeBack\obj\Debug\netcoreapp2.1\04.BarrackWars-TheCommandsStrikeBack.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\04.BarrackWars-TheCommandsStrikeBack\obj\Debug\netcoreapp2.1\04.BarrackWars-TheCommandsStrikeBack.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\04.BarrackWars-TheCommandsStrikeBack\obj\Debug\netcoreapp2.1\04.BarrackWars-TheCommandsStrikeBack.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\04.BarrackWars-TheCommandsStrikeBack\obj\Debug\netcoreapp2.1\04.BarrackWars-TheCommandsStrikeBack.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\04.BarrackWars-TheCommandsStrikeBack\obj\Debug\netcoreapp2.1\04.BarrackWars-TheCommandsStrikeBack.pdb

@@ -1,0 +1,10 @@
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\05.CreateAttribute\bin\Debug\netcoreapp2.1\05.CreateAttribute-Lab.deps.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\05.CreateAttribute\bin\Debug\netcoreapp2.1\05.CreateAttribute-Lab.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\05.CreateAttribute\bin\Debug\netcoreapp2.1\05.CreateAttribute-Lab.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\05.CreateAttribute\bin\Debug\netcoreapp2.1\05.CreateAttribute-Lab.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\05.CreateAttribute\bin\Debug\netcoreapp2.1\05.CreateAttribute-Lab.pdb
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\05.CreateAttribute\obj\Debug\netcoreapp2.1\05.CreateAttribute-Lab.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\05.CreateAttribute\obj\Debug\netcoreapp2.1\05.CreateAttribute-Lab.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\05.CreateAttribute\obj\Debug\netcoreapp2.1\05.CreateAttribute-Lab.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\05.CreateAttribute\obj\Debug\netcoreapp2.1\05.CreateAttribute-Lab.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\05.CreateAttribute\obj\Debug\netcoreapp2.1\05.CreateAttribute-Lab.pdb

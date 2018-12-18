@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\05.BarrackWars-ReturnOftheDependencies\bin\Debug\netcoreapp2.1\05.BarrackWars-ReturnOftheDependencies.deps.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\05.BarrackWars-ReturnOftheDependencies\bin\Debug\netcoreapp2.1\05.BarrackWars-ReturnOftheDependencies.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\05.BarrackWars-ReturnOftheDependencies\bin\Debug\netcoreapp2.1\05.BarrackWars-ReturnOftheDependencies.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\05.BarrackWars-ReturnOftheDependencies\bin\Debug\netcoreapp2.1\05.BarrackWars-ReturnOftheDependencies.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\05.BarrackWars-ReturnOftheDependencies\obj\Debug\netcoreapp2.1\05.BarrackWars-ReturnOftheDependencies.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\05.BarrackWars-ReturnOftheDependencies\obj\Debug\netcoreapp2.1\05.BarrackWars-ReturnOftheDependencies.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\05.BarrackWars-ReturnOftheDependencies\obj\Debug\netcoreapp2.1\05.BarrackWars-ReturnOftheDependencies.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\05.BarrackWars-ReturnOftheDependencies\bin\Debug\netcoreapp2.1\05.BarrackWars-ReturnOftheDependencies.pdb
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\05.BarrackWars-ReturnOftheDependencies\obj\Debug\netcoreapp2.1\05.BarrackWars-ReturnOftheDependencies.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\05.BarrackWars-ReturnOftheDependencies\obj\Debug\netcoreapp2.1\05.BarrackWars-ReturnOftheDependencies.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\05.BarrackWars-ReturnOftheDependencies\obj\Debug\netcoreapp2.1\05.BarrackWars-ReturnOftheDependencies.pdb

@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp2.1\03.MissionPrivateImpossible-Lab.deps.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp2.1\03.MissionPrivateImpossible-Lab.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp2.1\03.MissionPrivateImpossible-Lab.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp2.1\03.MissionPrivateImpossible-Lab.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\03.MissionPrivateImpossible\bin\Debug\netcoreapp2.1\03.MissionPrivateImpossible-Lab.pdb
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.1\03.MissionPrivateImpossible-Lab.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.1\03.MissionPrivateImpossible-Lab.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.1\03.MissionPrivateImpossible-Lab.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.1\03.MissionPrivateImpossible-Lab.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.1\03.MissionPrivateImpossible-Lab.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\03.MissionPrivateImpossible\obj\Debug\netcoreapp2.1\03.MissionPrivateImpossible-Lab.pdb

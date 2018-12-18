@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\02.BlackBoxInteger\bin\Debug\netcoreapp2.1\02.BlackBoxInteger.deps.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\02.BlackBoxInteger\bin\Debug\netcoreapp2.1\02.BlackBoxInteger.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\02.BlackBoxInteger\bin\Debug\netcoreapp2.1\02.BlackBoxInteger.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\02.BlackBoxInteger\bin\Debug\netcoreapp2.1\02.BlackBoxInteger.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\02.BlackBoxInteger\bin\Debug\netcoreapp2.1\02.BlackBoxInteger.pdb
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\02.BlackBoxInteger\obj\Debug\netcoreapp2.1\02.BlackBoxInteger.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\02.BlackBoxInteger\obj\Debug\netcoreapp2.1\02.BlackBoxInteger.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\02.BlackBoxInteger\obj\Debug\netcoreapp2.1\02.BlackBoxInteger.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\02.BlackBoxInteger\obj\Debug\netcoreapp2.1\02.BlackBoxInteger.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\02.BlackBoxInteger\obj\Debug\netcoreapp2.1\02.BlackBoxInteger.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\02.BlackBoxInteger\obj\Debug\netcoreapp2.1\02.BlackBoxInteger.pdb

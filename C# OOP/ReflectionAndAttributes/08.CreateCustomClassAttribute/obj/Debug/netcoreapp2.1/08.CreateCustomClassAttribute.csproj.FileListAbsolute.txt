@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\08.CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\08.CreateCustomClassAttribute.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\08.CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\08.CreateCustomClassAttribute.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\08.CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\08.CreateCustomClassAttribute.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\08.CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\08.CreateCustomClassAttribute.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\08.CreateCustomClassAttribute\bin\Debug\netcoreapp2.1\08.CreateCustomClassAttribute.deps.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\08.CreateCustomClassAttribute\bin\Debug\netcoreapp2.1\08.CreateCustomClassAttribute.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\08.CreateCustomClassAttribute\bin\Debug\netcoreapp2.1\08.CreateCustomClassAttribute.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\08.CreateCustomClassAttribute\bin\Debug\netcoreapp2.1\08.CreateCustomClassAttribute.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\08.CreateCustomClassAttribute\bin\Debug\netcoreapp2.1\08.CreateCustomClassAttribute.pdb
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\08.CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\08.CreateCustomClassAttribute.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\08.CreateCustomClassAttribute\obj\Debug\netcoreapp2.1\08.CreateCustomClassAttribute.pdb

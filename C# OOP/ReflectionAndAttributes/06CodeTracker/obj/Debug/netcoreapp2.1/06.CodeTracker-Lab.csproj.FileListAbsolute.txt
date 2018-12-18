@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\06CodeTracker\bin\Debug\netcoreapp2.1\06.CodeTracker-Lab.deps.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\06CodeTracker\bin\Debug\netcoreapp2.1\06.CodeTracker-Lab.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\06CodeTracker\bin\Debug\netcoreapp2.1\06.CodeTracker-Lab.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\06CodeTracker\bin\Debug\netcoreapp2.1\06.CodeTracker-Lab.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\06CodeTracker\bin\Debug\netcoreapp2.1\06.CodeTracker-Lab.pdb
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\06CodeTracker\obj\Debug\netcoreapp2.1\06.CodeTracker-Lab.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\06CodeTracker\obj\Debug\netcoreapp2.1\06.CodeTracker-Lab.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\06CodeTracker\obj\Debug\netcoreapp2.1\06.CodeTracker-Lab.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\06CodeTracker\obj\Debug\netcoreapp2.1\06.CodeTracker-Lab.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\06CodeTracker\obj\Debug\netcoreapp2.1\06.CodeTracker-Lab.pdb
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\06CodeTracker\obj\Debug\netcoreapp2.1\06.CodeTracker-Lab.csprojAssemblyReference.cache

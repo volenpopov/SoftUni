@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\07.InfernoInfinity\obj\Debug\netcoreapp2.1\07.InfernoInfinity.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\07.InfernoInfinity\obj\Debug\netcoreapp2.1\07.InfernoInfinity.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\07.InfernoInfinity\obj\Debug\netcoreapp2.1\07.InfernoInfinity.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\07.InfernoInfinity\obj\Debug\netcoreapp2.1\07.InfernoInfinity.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\07.InfernoInfinity\bin\Debug\netcoreapp2.1\07.InfernoInfinity.deps.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\07.InfernoInfinity\bin\Debug\netcoreapp2.1\07.InfernoInfinity.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\07.InfernoInfinity\bin\Debug\netcoreapp2.1\07.InfernoInfinity.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\07.InfernoInfinity\bin\Debug\netcoreapp2.1\07.InfernoInfinity.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\07.InfernoInfinity\bin\Debug\netcoreapp2.1\07.InfernoInfinity.pdb
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\07.InfernoInfinity\obj\Debug\netcoreapp2.1\07.InfernoInfinity.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\07.InfernoInfinity\obj\Debug\netcoreapp2.1\07.InfernoInfinity.pdb

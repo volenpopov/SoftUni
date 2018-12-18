@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\06.TrafficLights\bin\Debug\netcoreapp2.1\06.TrafficLights.deps.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\06.TrafficLights\bin\Debug\netcoreapp2.1\06.TrafficLights.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\06.TrafficLights\bin\Debug\netcoreapp2.1\06.TrafficLights.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\06.TrafficLights\bin\Debug\netcoreapp2.1\06.TrafficLights.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\06.TrafficLights\bin\Debug\netcoreapp2.1\06.TrafficLights.pdb
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\06.TrafficLights\obj\Debug\netcoreapp2.1\06.TrafficLights.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\06.TrafficLights\obj\Debug\netcoreapp2.1\06.TrafficLights.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\06.TrafficLights\obj\Debug\netcoreapp2.1\06.TrafficLights.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\06.TrafficLights\obj\Debug\netcoreapp2.1\06.TrafficLights.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\06.TrafficLights\obj\Debug\netcoreapp2.1\06.TrafficLights.dll
+E:\Volen\Programming\C# OOP Advanced\Reflection and Attributes\ReflectionAndAttributes\06.TrafficLights\obj\Debug\netcoreapp2.1\06.TrafficLights.pdb
