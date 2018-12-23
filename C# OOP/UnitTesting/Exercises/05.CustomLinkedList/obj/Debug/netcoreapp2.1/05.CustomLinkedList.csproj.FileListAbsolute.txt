@@ -1,0 +1,10 @@
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\05.CustomLinkedList\bin\Debug\netcoreapp2.1\05.CustomLinkedList.deps.json
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\05.CustomLinkedList\bin\Debug\netcoreapp2.1\05.CustomLinkedList.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\05.CustomLinkedList\bin\Debug\netcoreapp2.1\05.CustomLinkedList.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\05.CustomLinkedList\bin\Debug\netcoreapp2.1\05.CustomLinkedList.dll
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\05.CustomLinkedList\bin\Debug\netcoreapp2.1\05.CustomLinkedList.pdb
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\05.CustomLinkedList\obj\Debug\netcoreapp2.1\05.CustomLinkedList.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\05.CustomLinkedList\obj\Debug\netcoreapp2.1\05.CustomLinkedList.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\05.CustomLinkedList\obj\Debug\netcoreapp2.1\05.CustomLinkedList.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\05.CustomLinkedList\obj\Debug\netcoreapp2.1\05.CustomLinkedList.dll
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\05.CustomLinkedList\obj\Debug\netcoreapp2.1\05.CustomLinkedList.pdb

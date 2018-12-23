@@ -1,0 +1,10 @@
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\04.BubbleSort\bin\Debug\netcoreapp2.1\04.BubbleSort.deps.json
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\04.BubbleSort\bin\Debug\netcoreapp2.1\04.BubbleSort.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\04.BubbleSort\bin\Debug\netcoreapp2.1\04.BubbleSort.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\04.BubbleSort\bin\Debug\netcoreapp2.1\04.BubbleSort.dll
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\04.BubbleSort\bin\Debug\netcoreapp2.1\04.BubbleSort.pdb
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\04.BubbleSort\obj\Debug\netcoreapp2.1\04.BubbleSort.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\04.BubbleSort\obj\Debug\netcoreapp2.1\04.BubbleSort.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\04.BubbleSort\obj\Debug\netcoreapp2.1\04.BubbleSort.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\04.BubbleSort\obj\Debug\netcoreapp2.1\04.BubbleSort.dll
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\04.BubbleSort\obj\Debug\netcoreapp2.1\04.BubbleSort.pdb

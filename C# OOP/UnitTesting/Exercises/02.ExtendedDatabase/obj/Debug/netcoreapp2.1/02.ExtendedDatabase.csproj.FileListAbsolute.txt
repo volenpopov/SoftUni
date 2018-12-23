@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\02.ExtendedDatabase\bin\Debug\netcoreapp2.1\02.ExtendedDatabase.deps.json
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\02.ExtendedDatabase\bin\Debug\netcoreapp2.1\02.ExtendedDatabase.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\02.ExtendedDatabase\bin\Debug\netcoreapp2.1\02.ExtendedDatabase.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\02.ExtendedDatabase\bin\Debug\netcoreapp2.1\02.ExtendedDatabase.dll
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\02.ExtendedDatabase\bin\Debug\netcoreapp2.1\02.ExtendedDatabase.pdb
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\02.ExtendedDatabase\obj\Debug\netcoreapp2.1\02.ExtendedDatabase.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\02.ExtendedDatabase\obj\Debug\netcoreapp2.1\02.ExtendedDatabase.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\02.ExtendedDatabase\obj\Debug\netcoreapp2.1\02.ExtendedDatabase.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\02.ExtendedDatabase\obj\Debug\netcoreapp2.1\02.ExtendedDatabase.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\02.ExtendedDatabase\obj\Debug\netcoreapp2.1\02.ExtendedDatabase.dll
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\02.ExtendedDatabase\obj\Debug\netcoreapp2.1\02.ExtendedDatabase.pdb

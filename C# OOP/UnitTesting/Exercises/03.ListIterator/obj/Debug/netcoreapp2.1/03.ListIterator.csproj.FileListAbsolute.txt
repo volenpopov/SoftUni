@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\03.ListIterator\bin\Debug\netcoreapp2.1\03.ListIterator.deps.json
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\03.ListIterator\bin\Debug\netcoreapp2.1\03.ListIterator.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\03.ListIterator\bin\Debug\netcoreapp2.1\03.ListIterator.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\03.ListIterator\bin\Debug\netcoreapp2.1\03.ListIterator.dll
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\03.ListIterator\bin\Debug\netcoreapp2.1\03.ListIterator.pdb
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\03.ListIterator\obj\Debug\netcoreapp2.1\03.ListIterator.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\03.ListIterator\obj\Debug\netcoreapp2.1\03.ListIterator.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\03.ListIterator\obj\Debug\netcoreapp2.1\03.ListIterator.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\03.ListIterator\obj\Debug\netcoreapp2.1\03.ListIterator.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\03.ListIterator\obj\Debug\netcoreapp2.1\03.ListIterator.dll
+E:\Volen\Programming\C# OOP Advanced\UnitTesting\UnitTesting\03.ListIterator\obj\Debug\netcoreapp2.1\03.ListIterator.pdb
