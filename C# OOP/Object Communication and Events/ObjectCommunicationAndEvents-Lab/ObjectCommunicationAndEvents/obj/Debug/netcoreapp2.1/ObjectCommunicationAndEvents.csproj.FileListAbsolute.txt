@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjectCommunicationAndEvents\ObjectCommunicationAndEvents\bin\Debug\netcoreapp2.1\ObjectCommunicationAndEvents.deps.json
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjectCommunicationAndEvents\ObjectCommunicationAndEvents\bin\Debug\netcoreapp2.1\ObjectCommunicationAndEvents.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjectCommunicationAndEvents\ObjectCommunicationAndEvents\bin\Debug\netcoreapp2.1\ObjectCommunicationAndEvents.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjectCommunicationAndEvents\ObjectCommunicationAndEvents\bin\Debug\netcoreapp2.1\ObjectCommunicationAndEvents.dll
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjectCommunicationAndEvents\ObjectCommunicationAndEvents\bin\Debug\netcoreapp2.1\ObjectCommunicationAndEvents.pdb
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjectCommunicationAndEvents\ObjectCommunicationAndEvents\obj\Debug\netcoreapp2.1\ObjectCommunicationAndEvents.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjectCommunicationAndEvents\ObjectCommunicationAndEvents\obj\Debug\netcoreapp2.1\ObjectCommunicationAndEvents.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjectCommunicationAndEvents\ObjectCommunicationAndEvents\obj\Debug\netcoreapp2.1\ObjectCommunicationAndEvents.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjectCommunicationAndEvents\ObjectCommunicationAndEvents\obj\Debug\netcoreapp2.1\ObjectCommunicationAndEvents.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjectCommunicationAndEvents\ObjectCommunicationAndEvents\obj\Debug\netcoreapp2.1\ObjectCommunicationAndEvents.dll
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjectCommunicationAndEvents\ObjectCommunicationAndEvents\obj\Debug\netcoreapp2.1\ObjectCommunicationAndEvents.pdb
