@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.EventImplementation", "01.EventImplementation\01.EventImplementation.csproj", "{D8F07590-53A5-4FCF-BC67-9163D085E970}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.KingsGambit", "02.KingsGambit\02.KingsGambit.csproj", "{4C42727B-F577-4599-9E09-C481BD45A9F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8F07590-53A5-4FCF-BC67-9163D085E970}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8F07590-53A5-4FCF-BC67-9163D085E970}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8F07590-53A5-4FCF-BC67-9163D085E970}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8F07590-53A5-4FCF-BC67-9163D085E970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C42727B-F577-4599-9E09-C481BD45A9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C42727B-F577-4599-9E09-C481BD45A9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C42727B-F577-4599-9E09-C481BD45A9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C42727B-F577-4599-9E09-C481BD45A9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F46FCCCD-73EC-46C8-99DE-AAB86F4F00F8}
+	EndGlobalSection
+EndGlobal
