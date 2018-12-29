@@ -1,0 +1,21 @@
+<div class="container body-content span=8 offset=2">
+    <div class="well">
+        <form class="form-horizontal" method="GET" action="/user/details/{{this.id}}">
+            <fieldset>
+                <legend>User Details</legend>
+                    <label class="col-sm-4 control-label">Email: {{this.email}}</label>
+                <br> </br>
+                    <label class="col-sm-4 control-label">Full Name: {{this.fullName}}</label>
+                <div class="row">
+                    {{#each articles}}
+                        <div class="col-md-6">
+                            <article>
+                                <a class="btn btn-default btn-xs" href="/article/details/{{this.id}}">{{this.title}}</a>
+                            </article>
+                        </div>
+                    {{/each}}
+                </div>
+            </fieldset>
+        </form>
+    </div>
+</div>
