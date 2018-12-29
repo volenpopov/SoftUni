@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{921FC799-EB5E-4D51-832C-8EAF3DE18A01}"
+	ProjectSection(SolutionItems) = preProject
+		createnewpost.html = createnewpost.html
+		index.html = index.html
+		indexlogged.html = indexlogged.html
+		login.html = login.html
+		register.html = register.html
+		viewpost.html = viewpost.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Styles", "Styles", "{6338E471-5F83-45DB-8016-84D74F74711D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{21DAE2D1-D440-4895-976E-D766D6D76D71}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24AA9A3D-53D1-43B6-BCAC-4422F9A3DD57}
+	EndGlobalSection
+EndGlobal
