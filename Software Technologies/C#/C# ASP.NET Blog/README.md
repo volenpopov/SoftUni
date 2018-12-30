@@ -1,6 +1,6 @@
 Basic Blog 
 
-Simple web app, using ASP.NET, MSSQL and Entity Framework 
+Simple web app, using ASP.NET MVC, MSSQL and Entity Framework 
 
 Features: 
 
