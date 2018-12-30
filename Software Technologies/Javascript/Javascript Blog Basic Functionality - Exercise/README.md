@@ -2,7 +2,7 @@
 
 Basic Blog
 
-Simple web app, using Express.js framework, MySQL and Sequilize ORM
+Simple web app, using Express.js framework, MySQL and Sequelize ORM
 
 Features:
 
