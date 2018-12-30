@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\03.DependencyInversion\bin\Debug\netcoreapp2.1\03.DependencyInversion.deps.json
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\03.DependencyInversion\bin\Debug\netcoreapp2.1\03.DependencyInversion.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\03.DependencyInversion\bin\Debug\netcoreapp2.1\03.DependencyInversion.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\03.DependencyInversion\bin\Debug\netcoreapp2.1\03.DependencyInversion.dll
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\03.DependencyInversion\bin\Debug\netcoreapp2.1\03.DependencyInversion.pdb
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\03.DependencyInversion\obj\Debug\netcoreapp2.1\03.DependencyInversion.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\03.DependencyInversion\obj\Debug\netcoreapp2.1\03.DependencyInversion.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\03.DependencyInversion\obj\Debug\netcoreapp2.1\03.DependencyInversion.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\03.DependencyInversion\obj\Debug\netcoreapp2.1\03.DependencyInversion.dll
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\03.DependencyInversion\obj\Debug\netcoreapp2.1\03.DependencyInversion.pdb
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\03.DependencyInversion\obj\Debug\netcoreapp2.1\03.DependencyInversion.csprojAssemblyReference.cache

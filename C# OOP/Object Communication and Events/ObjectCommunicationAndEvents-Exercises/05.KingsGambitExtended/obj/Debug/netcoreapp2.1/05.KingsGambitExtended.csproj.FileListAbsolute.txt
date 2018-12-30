@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\05.KingsGambitExtended\bin\Debug\netcoreapp2.1\05.KingsGambitExtended.deps.json
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\05.KingsGambitExtended\bin\Debug\netcoreapp2.1\05.KingsGambitExtended.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\05.KingsGambitExtended\bin\Debug\netcoreapp2.1\05.KingsGambitExtended.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\05.KingsGambitExtended\bin\Debug\netcoreapp2.1\05.KingsGambitExtended.dll
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\05.KingsGambitExtended\bin\Debug\netcoreapp2.1\05.KingsGambitExtended.pdb
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\05.KingsGambitExtended\obj\Debug\netcoreapp2.1\05.KingsGambitExtended.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\05.KingsGambitExtended\obj\Debug\netcoreapp2.1\05.KingsGambitExtended.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\05.KingsGambitExtended\obj\Debug\netcoreapp2.1\05.KingsGambitExtended.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\05.KingsGambitExtended\obj\Debug\netcoreapp2.1\05.KingsGambitExtended.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\05.KingsGambitExtended\obj\Debug\netcoreapp2.1\05.KingsGambitExtended.dll
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\05.KingsGambitExtended\obj\Debug\netcoreapp2.1\05.KingsGambitExtended.pdb
