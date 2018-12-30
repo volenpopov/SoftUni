@@ -1,4 +1,4 @@
-Calcualtor 
+Calculator 
 
 Simple web app, using ASP.NET MVC 
 
