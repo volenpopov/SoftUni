@@ -22,13 +22,13 @@ namespace _02.KingsGambit
             string[] royalGuards = Console.ReadLine().Split();
             foreach (string guard in royalGuards)
             {
-                king.AddSubordinate(new RoyalGuard(king, guard));
+                king.AddSubordinate(new RoyalGuard(guard));
             }
 
             string[] footmen = Console.ReadLine().Split();
             foreach (string footman in footmen)
             {
-                king.AddSubordinate(new Footman(king, footman));
+                king.AddSubordinate(new Footman(footman));
             }
 
             return king;

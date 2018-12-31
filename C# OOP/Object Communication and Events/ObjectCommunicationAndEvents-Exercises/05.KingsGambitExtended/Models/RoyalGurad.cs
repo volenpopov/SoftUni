@@ -6,7 +6,7 @@ namespace _02.KingsGambit
 {
     public class RoyalGuard : Subordinate
     {
-        public RoyalGuard(IKing king, string name) : base(king, name, "defending")
+        public RoyalGuard(string name) : base(name, "defending")
         { }
 
         public override void GetAttacked()

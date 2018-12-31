@@ -5,8 +5,8 @@ namespace _02.KingsGambit
 {
     public class Footman : Subordinate
     {
-        public Footman(IKing king, string name)
-            : base(king, name, "panicking")
+        public Footman(string name)
+            : base(name, "panicking")
         { }
 
         public override void ReceiveStrike()

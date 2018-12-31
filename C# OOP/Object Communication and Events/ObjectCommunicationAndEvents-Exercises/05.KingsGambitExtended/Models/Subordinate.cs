@@ -5,16 +5,11 @@ namespace _02.KingsGambit.Models
 {
     public abstract class Subordinate : ISubordinate
     {
-        private IKing king;
-
-        public Subordinate(IKing king, string name, string action)
+        public Subordinate(string name, string action)
         {
-            this.king = king;
             this.Name = name;
             this.Action = action;
             this.StrikesReceived = 0;
-
-            this.GetKilledEvent += this.king.UnitKilled;
         }
 
         public string Action { get; }

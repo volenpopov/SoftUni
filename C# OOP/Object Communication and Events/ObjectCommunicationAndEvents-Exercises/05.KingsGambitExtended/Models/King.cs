@@ -25,6 +25,7 @@ namespace _02.KingsGambit
         {
             this.subordinates.Add(subordinate);
             this.GetAttackedEvent += subordinate.GetAttacked;
+            subordinate.GetKilledEvent += this.UnitKilled;
         }
 
         public void GetAttacked()
