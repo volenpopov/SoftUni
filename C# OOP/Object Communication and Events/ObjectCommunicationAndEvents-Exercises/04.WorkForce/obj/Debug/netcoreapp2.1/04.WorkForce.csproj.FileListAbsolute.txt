@@ -1,0 +1,11 @@
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\04.WorkForce\bin\Debug\netcoreapp2.1\04.WorkForce.deps.json
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\04.WorkForce\bin\Debug\netcoreapp2.1\04.WorkForce.runtimeconfig.json
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\04.WorkForce\bin\Debug\netcoreapp2.1\04.WorkForce.runtimeconfig.dev.json
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\04.WorkForce\bin\Debug\netcoreapp2.1\04.WorkForce.dll
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\04.WorkForce\bin\Debug\netcoreapp2.1\04.WorkForce.pdb
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\04.WorkForce\obj\Debug\netcoreapp2.1\04.WorkForce.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\04.WorkForce\obj\Debug\netcoreapp2.1\04.WorkForce.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\04.WorkForce\obj\Debug\netcoreapp2.1\04.WorkForce.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\04.WorkForce\obj\Debug\netcoreapp2.1\04.WorkForce.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\04.WorkForce\obj\Debug\netcoreapp2.1\04.WorkForce.dll
+E:\Volen\Programming\C# OOP Advanced\ObjectCommunication and Events\ObjCommunicationAndEvents-Exercises\04.WorkForce\obj\Debug\netcoreapp2.1\04.WorkForce.pdb
