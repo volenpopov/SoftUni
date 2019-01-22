@@ -1,0 +1,9 @@
+E:\Volen\Programming\C# OOP Advanced\Dependency Injection and Unit Testing Workshop\CustomDependencyInjection\InjectionLibrary\obj\Debug\netcoreapp2.1\InjectionLibrary.csprojAssemblyReference.cache
+E:\Volen\Programming\C# OOP Advanced\Dependency Injection and Unit Testing Workshop\CustomDependencyInjection\InjectionLibrary\obj\Debug\netcoreapp2.1\InjectionLibrary.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Dependency Injection and Unit Testing Workshop\CustomDependencyInjection\InjectionLibrary\obj\Debug\netcoreapp2.1\InjectionLibrary.AssemblyInfoInputs.cache
+E:\Volen\Programming\C# OOP Advanced\Dependency Injection and Unit Testing Workshop\CustomDependencyInjection\InjectionLibrary\obj\Debug\netcoreapp2.1\InjectionLibrary.AssemblyInfo.cs
+E:\Volen\Programming\C# OOP Advanced\Dependency Injection and Unit Testing Workshop\CustomDependencyInjection\InjectionLibrary\bin\Debug\netcoreapp2.1\InjectionLibrary.deps.json
+E:\Volen\Programming\C# OOP Advanced\Dependency Injection and Unit Testing Workshop\CustomDependencyInjection\InjectionLibrary\bin\Debug\netcoreapp2.1\InjectionLibrary.dll
+E:\Volen\Programming\C# OOP Advanced\Dependency Injection and Unit Testing Workshop\CustomDependencyInjection\InjectionLibrary\bin\Debug\netcoreapp2.1\InjectionLibrary.pdb
+E:\Volen\Programming\C# OOP Advanced\Dependency Injection and Unit Testing Workshop\CustomDependencyInjection\InjectionLibrary\obj\Debug\netcoreapp2.1\InjectionLibrary.dll
+E:\Volen\Programming\C# OOP Advanced\Dependency Injection and Unit Testing Workshop\CustomDependencyInjection\InjectionLibrary\obj\Debug\netcoreapp2.1\InjectionLibrary.pdb
