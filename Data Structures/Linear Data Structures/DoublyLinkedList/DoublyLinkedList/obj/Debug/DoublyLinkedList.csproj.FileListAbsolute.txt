@@ -1,0 +1,6 @@
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\01. Doubly-Linked-List-CSharp-Skeleton\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\01. Doubly-Linked-List-CSharp-Skeleton\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\01. Doubly-Linked-List-CSharp-Skeleton\DoublyLinkedList\obj\Debug\DoublyLinkedList.csprojAssemblyReference.cache
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\01. Doubly-Linked-List-CSharp-Skeleton\DoublyLinkedList\obj\Debug\DoublyLinkedList.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\01. Doubly-Linked-List-CSharp-Skeleton\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\01. Doubly-Linked-List-CSharp-Skeleton\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb
