@@ -1,0 +1,11 @@
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\LinkedQueue\bin\Debug\netcoreapp2.1\LinkedQueue.deps.json
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\LinkedQueue\bin\Debug\netcoreapp2.1\LinkedQueue.runtimeconfig.json
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\LinkedQueue\bin\Debug\netcoreapp2.1\LinkedQueue.runtimeconfig.dev.json
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\LinkedQueue\bin\Debug\netcoreapp2.1\LinkedQueue.dll
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\LinkedQueue\bin\Debug\netcoreapp2.1\LinkedQueue.pdb
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\LinkedQueue\obj\Debug\netcoreapp2.1\LinkedQueue.csprojAssemblyReference.cache
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\LinkedQueue\obj\Debug\netcoreapp2.1\LinkedQueue.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\LinkedQueue\obj\Debug\netcoreapp2.1\LinkedQueue.AssemblyInfoInputs.cache
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\LinkedQueue\obj\Debug\netcoreapp2.1\LinkedQueue.AssemblyInfo.cs
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\LinkedQueue\obj\Debug\netcoreapp2.1\LinkedQueue.dll
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\LinkedQueue\obj\Debug\netcoreapp2.1\LinkedQueue.pdb

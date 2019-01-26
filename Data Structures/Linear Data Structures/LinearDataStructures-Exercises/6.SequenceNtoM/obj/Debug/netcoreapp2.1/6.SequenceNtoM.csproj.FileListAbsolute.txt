@@ -1,0 +1,11 @@
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\6.SequenceNtoM\bin\Debug\netcoreapp2.1\6.SequenceNtoM.deps.json
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\6.SequenceNtoM\bin\Debug\netcoreapp2.1\6.SequenceNtoM.runtimeconfig.json
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\6.SequenceNtoM\bin\Debug\netcoreapp2.1\6.SequenceNtoM.runtimeconfig.dev.json
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\6.SequenceNtoM\bin\Debug\netcoreapp2.1\6.SequenceNtoM.dll
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\6.SequenceNtoM\bin\Debug\netcoreapp2.1\6.SequenceNtoM.pdb
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\6.SequenceNtoM\obj\Debug\netcoreapp2.1\6.SequenceNtoM.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\6.SequenceNtoM\obj\Debug\netcoreapp2.1\6.SequenceNtoM.AssemblyInfoInputs.cache
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\6.SequenceNtoM\obj\Debug\netcoreapp2.1\6.SequenceNtoM.AssemblyInfo.cs
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\6.SequenceNtoM\obj\Debug\netcoreapp2.1\6.SequenceNtoM.dll
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\6.SequenceNtoM\obj\Debug\netcoreapp2.1\6.SequenceNtoM.pdb
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\6.SequenceNtoM\obj\Debug\netcoreapp2.1\6.SequenceNtoM.csprojAssemblyReference.cache

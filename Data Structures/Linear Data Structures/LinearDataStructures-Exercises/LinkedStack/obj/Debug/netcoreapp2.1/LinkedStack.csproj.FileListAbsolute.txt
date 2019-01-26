@@ -1,0 +1,11 @@
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\LinkedStack\bin\Debug\netcoreapp2.1\LinkedStack.deps.json
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\LinkedStack\bin\Debug\netcoreapp2.1\LinkedStack.runtimeconfig.json
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\LinkedStack\bin\Debug\netcoreapp2.1\LinkedStack.runtimeconfig.dev.json
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\LinkedStack\bin\Debug\netcoreapp2.1\LinkedStack.dll
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\LinkedStack\bin\Debug\netcoreapp2.1\LinkedStack.pdb
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\LinkedStack\obj\Debug\netcoreapp2.1\LinkedStack.csprojAssemblyReference.cache
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\LinkedStack\obj\Debug\netcoreapp2.1\LinkedStack.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\LinkedStack\obj\Debug\netcoreapp2.1\LinkedStack.AssemblyInfoInputs.cache
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\LinkedStack\obj\Debug\netcoreapp2.1\LinkedStack.AssemblyInfo.cs
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\LinkedStack\obj\Debug\netcoreapp2.1\LinkedStack.dll
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\LinkedStack\obj\Debug\netcoreapp2.1\LinkedStack.pdb

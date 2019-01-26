@@ -1,0 +1,7 @@
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\02.SortWords\bin\Debug\02.SortWords.exe.config
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\02.SortWords\bin\Debug\02.SortWords.exe
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\02.SortWords\bin\Debug\02.SortWords.pdb
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\02.SortWords\obj\Debug\02.SortWords.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\02.SortWords\obj\Debug\02.SortWords.exe
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\02.SortWords\obj\Debug\02.SortWords.pdb
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\02.SortWords\obj\Debug\02.SortWords.csprojAssemblyReference.cache

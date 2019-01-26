@@ -1,0 +1,7 @@
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\06.ReversedList\bin\Debug\06.ReversedList.exe.config
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\06.ReversedList\bin\Debug\06.ReversedList.exe
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\06.ReversedList\bin\Debug\06.ReversedList.pdb
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\06.ReversedList\obj\Debug\06.ReversedList.csprojAssemblyReference.cache
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\06.ReversedList\obj\Debug\06.ReversedList.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\06.ReversedList\obj\Debug\06.ReversedList.exe
+E:\Volen\Programming\Data Structures\Linear Data Structures Exercises\LinearDataStructures-List\06.ReversedList\obj\Debug\06.ReversedList.pdb
