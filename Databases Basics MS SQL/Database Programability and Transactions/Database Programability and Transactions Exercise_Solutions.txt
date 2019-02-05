@@ -1,0 +1,221 @@
+- PROBLEM 1
+
+CREATE PROCEDURE usp_GetEmployeesSalaryAbove35000
+AS
+	SELECT FirstName, LastName
+	FROM Employees
+	WHERE Salary > 35000
+
+
+- PROBLEM 2
+
+CREATE PROCEDURE usp_GetEmployeesSalaryAboveNumber(@salary DECIMAL(18,4) = 0)
+AS
+	SELECT FirstName, LastName
+	FROM Employees
+	WHERE Salary >= @salary
+
+
+
+- PROBLEM 3
+
+CREATE PROC usp_GetTownsStartingWith(@filter NVARCHAR(30))
+AS
+	SELECT [Name]
+	FROM Towns
+	WHERE LEFT([Name], LEN(@filter)) = @filter
+
+
+
+- PROBLEM 4
+
+CREATE PROC usp_GetEmployeesFromTown(@townName VARCHAR(50))
+AS
+	SELECT FirstName, LastName
+	FROM Employees AS e
+	JOIN Addresses AS a ON e.AddressID = a.AddressID
+	JOIN Towns AS t ON a.TownID = t.TownID
+	WHERE t.[Name] = @townName
+
+
+
+
+- PROBLEM 5
+
+CREATE FUNCTION ufn_GetSalaryLevel(@salary DECIMAL(18,4))
+RETURNS VARCHAR(10)
+AS
+BEGIN
+	DECLARE @salaryLevel VARCHAR(10);
+
+	IF (@salary < 30000)
+		SET @salaryLevel = 'Low';
+	ELSE IF (@salary >= 30000 AND @salary <= 50000) 
+		SET @salaryLevel = 'Average';
+	ELSE
+		SET @salaryLevel = 'High';
+
+	RETURN @salaryLevel
+END
+
+
+
+
+- PROBLEM 6
+
+CREATE PROC usp_EmployeesBySalaryLevel(@levelOfSalary VARCHAR(10))
+AS
+	SELECT FirstName, LastName
+	FROM Employees
+	WHERE dbo.ufn_GetSalaryLevel(Salary) = @levelOfSalary
+
+
+
+- PROBLEM 7
+
+CREATE FUNCTION ufn_IsWordComprised(@setOfLetters NVARCHAR(MAX), @word NVARCHAR(MAX))
+RETURNS BIT
+AS
+	BEGIN
+
+	DECLARE @result BIT = 1;
+	DECLARE @count INT = 1;
+
+	WHILE (@count <= LEN(@word))
+		BEGIN
+
+		DECLARE @currentLetter CHAR = SUBSTRING(@word, @count, 1);
+		
+		IF (CHARINDEX(@currentLetter, @setOfLetters) <= 0)
+			SET @result = 0;
+
+		SET @count += 1;
+
+		END;
+
+	RETURN @result;
+	END;
+
+
+
+
+- PROBLEM 8
+
+CREATE PROC usp_DeleteEmployeesFromDepartment(@departmentId INT)
+AS
+	BEGIN
+
+		ALTER TABLE Employees
+		ALTER COLUMN DepartmentID INT NULL
+
+		ALTER TABLE Departments
+		ALTER COLUMN ManagerID INT NULL
+
+		UPDATE Employees 
+		SET DepartmentID = NULL
+		WHERE DepartmentID = @departmentId
+
+		UPDATE Employees 
+		SET ManagerID = NULL
+		WHERE DepartmentID = @departmentId
+
+		DELETE
+		FROM Departments
+		WHERE DepartmentID = @departmentId
+
+		DELETE
+		FROM EmployeesProjects
+		WHERE EmployeeID IN (
+			SELECT EmployeeID
+			FROM Employees
+			WHERE DepartmentID = @departmentId
+		)
+
+		DELETE
+		FROM Employees
+		WHERE DepartmentID = @departmentId
+
+		SELECT COUNT(*)
+		FROM Employees
+		WHERE DepartmentID = @departmentId
+
+	END;
+
+
+
+- PROBLEM 9
+
+CREATE PROC usp_GetHoldersFullName
+AS
+	SELECT FirstName + ' ' + LastName AS [Full Name]
+	FROM AccountHolders
+
+
+
+- PROBLEM 10
+
+CREATE PROC usp_GetHoldersWithBalanceHigherThan(@inputBalance DECIMAL(18,4))
+AS
+	SELECT
+		ah.FirstName
+		, ah.LastName
+	FROM AccountHolders as ah
+	JOIN Accounts AS a ON ah.Id = a.AccountHolderId
+	GROUP BY ah.FirstName, ah.LastName
+	HAVING SUM(a.Balance) > @inputBalance
+	ORDER BY ah.FirstName, ah.LastName
+
+
+- PROBLEM 11
+
+
+CREATE FUNCTION ufn_CalculateFutureValue(@sum MONEY, @interestRate FLOAT, @years INT)
+RETURNS MONEY
+AS
+	BEGIN
+		RETURN @sum * ((POWER(1 + @interestRate, @years)));
+	END
+	
+
+
+- PROBLEM 12
+
+CREATE PROC usp_CalculateFutureValueForAccount(@accountId INT, @rate FLOAT)
+AS
+	SELECT 
+		@accountId AS [Account Id]
+		, ah.FirstName AS [First Name]
+		, ah.LastName AS [Last Name]
+		, a.Balance AS [Current Balance]
+		, dbo.ufn_CalculateFutureValue(a.Balance, @rate, 5) AS [Balance in 5 years]
+	FROM AccountHolders AS ah
+	JOIN Accounts AS a ON ah.Id = a.AccountHolderId
+	WHERE a.Id = @accountId
+
+
+
+- PROBLEM 13
+
+CREATE FUNCTION ufn_CashInUsersGames(@gameName NVARCHAR(MAX))
+RETURNS @result TABLE (
+	SumCash MONEY NOT NULL
+) AS
+BEGIN
+
+	INSERT INTO @result
+	SELECT SUM(t.Cash)
+	FROM (
+		SELECT
+			g.[Name]
+			, ug.Cash
+			, ROW_NUMBER() OVER(ORDER BY ug.Cash DESC) AS [RowNumber]
+		FROM Games AS g
+		JOIN UsersGames AS ug ON g.Id = ug.GameId
+		WHERE g.[Name] = @gameName
+	) AS t
+	WHERE t.RowNumber % 2 != 0
+	
+	RETURN
+
+END 
+
