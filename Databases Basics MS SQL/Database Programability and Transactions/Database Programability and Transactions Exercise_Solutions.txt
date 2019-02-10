@@ -219,3 +219,335 @@ BEGIN
 
 END 
 
+- PROBLEM 14
+
+CREATE TRIGGER tr_BalanceChange ON Accounts FOR UPDATE
+AS
+	BEGIN
+
+		INSERT INTO Logs (AccountId, OldSum, NewSum)
+		VALUES
+		(
+			(SELECT i.Id
+			FROM inserted AS i)
+		
+			,(SELECT d.Balance
+				FROM deleted as d)
+
+			,(SELECT i.Balance
+				FROM inserted as i)
+		);
+
+	END;
+	
+
+
+
+- PROBLEM 15
+
+CREATE TRIGGER tr_NewEmailWhenNewLog ON Logs 
+FOR INSERT
+AS
+	BEGIN
+
+		INSERT INTO NotificationEmails (Recipient, [Subject], Body)
+		VALUES
+		(
+			(SELECT AccountId
+			FROM Logs)
+
+			,CONCAT('Balance change for account: ', 
+				(SELECT AccountId
+				FROM Logs)
+			)
+
+			,CONCAT('On '
+				,FORMAT(GETDATE(), 'dd-MM-yyyy HH:mm')
+				,' your balance was changed from '
+				, (SELECT OldSum FROM Logs)
+				, ' '
+				,(SELECT NewSum FROM Logs)
+				,'.'
+			)
+
+		);
+
+	END;
+
+
+
+
+- PROBLEM 16
+
+CREATE PROCEDURE usp_DepositMoney
+(
+                 @accountId   INT,
+                 @moneyAmount MONEY
+)
+AS
+     BEGIN
+         IF(@moneyAmount < 0)
+             BEGIN
+                 RAISERROR('Cannot deposit negative value', 16, 1);
+         END;
+             ELSE
+             BEGIN
+                 IF(@accountId IS NULL
+                    OR @moneyAmount IS NULL)
+                     BEGIN
+                         RAISERROR('Missing value', 16, 1);
+                 END;
+         END;
+         BEGIN TRANSACTION;
+         UPDATE Accounts
+           SET
+               Balance+=@moneyAmount
+         WHERE Id = @accountId;
+         IF(@@ROWCOUNT < 1)
+             BEGIN
+                 ROLLBACK;
+                 RAISERROR('Account doesn''t exists', 16, 1);
+         END;
+         COMMIT;
+END;
+
+
+
+- PROBLEM 17
+
+CREATE PROC usp_WithdrawMoney(@AccountId INT, @MoneyAmount MONEY)
+AS
+	BEGIN
+
+		IF (@MoneyAmount < 0)
+			RAISERROR('The money amount to be withdrawed CANNOT be negative!', 16, 1);
+
+		ELSE IF (@AccountId IS NULL)
+			RAISERROR('AccountId CANNOT be NULL', 16, 2);
+
+		ELSE IF (@MoneyAmount IS NULL)
+			RAISERROR('MoneyAmount CANNOT be NULL', 16, 2);
+
+		IF (@MoneyAmount > (SELECT Balance FROM Accounts WHERE Id = @AccountId))
+			RAISERROR('Insufficient funds in the account!', 16, 3);
+
+		BEGIN TRANSACTION
+
+			UPDATE Accounts
+			SET Balance -= @MoneyAmount
+			WHERE Id = @AccountId;
+			IF (@@ROWCOUNT < 1)
+				BEGIN
+					ROLLBACK;
+					RAISERROR('AccountId DOESN''T exist!', 16, 4);
+				END
+			
+		COMMIT;
+
+	END;
+
+
+
+- PROBLEM 18
+
+CREATE PROC  usp_TransferMoney(@SenderId INT, @ReceiverId INT, @Amount MONEY)
+AS
+	BEGIN
+
+	EXEC dbo.usp_WithdrawMoney @SenderId, @Amount;
+
+	EXEC dbo.usp_DepositMoney @ReceiverId, @Amount;
+
+	END;
+
+
+
+
+
+- PROBLEM 19
+
+CREATE TRIGGER tr_CannotBuyHigherLvlItems ON UserGameItems
+INSTEAD OF UPDATE
+AS
+	BEGIN
+		
+		DECLARE @itemLevel INT = (SELECT MinLevel FROM Items
+									WHERE Id = (SELECT ItemId FROM inserted));
+
+		DECLARE @characterLevel INT = (SELECT [Level] FROM UsersGames
+										WHERE GameId = 
+											(SELECT Id FROM GameTypes 
+												WHERE Id = (SELECT UserGameId FROM inserted)));
+
+		IF (@itemLevel > @characterLevel)
+			RAISERROR('You cannot buy items that are higher level than your character!',16, 1);
+
+		INSERT INTO UserGameItems
+		VALUES
+		(
+			(SELECT ItemId FROM inserted)
+			,(SELECT UserGameId FROM inserted)
+		);
+
+
+
+	END;
+
+
+UPDATE UsersGames
+SET Cash += 50000
+WHERE UserId IN 
+		(SELECT Id FROM Users
+		 WHERE Username IN 
+		('baleremuda', 'loosenoise', 'inguinalself', 'buildingdeltoid', 'monoxidecos'))
+	AND GameId = (SELECT Id FROM Games WHERE [Name] = 'Bali')
+
+
+CREATE PROC usp_BuyItem(@ItemId INT, @userName NVARCHAR(MAX), @gameName NVARCHAR(MAX))
+AS
+	BEGIN
+
+		IF (@ItemId IS NULL)
+			RAISERROR('ItemId CANNOT be null!', 16, 1);
+
+		ELSE IF (@userName IS NULL)
+			RAISERROR('Username CANNOT be null!', 16, 1);
+
+
+
+
+
+- PROBLEM 20
+
+DECLARE @UserId INT = (SELECT Id FROM Users WHERE Username = 'Stamat')
+DECLARE @GameId INT = (SELECT Id FROM Games WHERE Name = 'Safflower')
+DECLARE @UserGameId INT = (SELECT Id FROM UsersGames WHERE UserId = @UserId AND GameId = @GameId)
+DECLARE @UserGameLevel INT = (SELECT Level FROM UsersGames WHERE Id = @UserGameId)
+DECLARE @ItemStartLevel INT = 11
+DECLARE @ItemEndLevel INT = 12
+DECLARE @AllItemsPrice MONEY = (SELECT SUM(Price) FROM Items WHERE (MinLevel BETWEEN @ItemStartLevel AND @ItemEndLevel)) 
+DECLARE @StamatCash MONEY = (SELECT Cash FROM UsersGames WHERE Id = @UserGameId)
+
+IF(@StamatCash >= @AllItemsPrice)
+BEGIN
+	BEGIN TRAN	
+		UPDATE UsersGames
+		SET Cash -= @AllItemsPrice
+		WHERE Id = @UserGameId
+	
+		INSERT INTO UserGameItems
+		SELECT i.Id, @UserGameId  FROM Items AS i
+		WHERE (i.MinLevel BETWEEN @ItemStartLevel AND @ItemEndLevel)
+	COMMIT
+END
+
+SET @ItemStartLevel = 19
+SET @ItemEndLevel = 21
+SET @AllItemsPrice = (SELECT SUM(Price) FROM Items WHERE (MinLevel BETWEEN @ItemStartLevel AND @ItemEndLevel)) 
+SET @StamatCash = (SELECT Cash FROM UsersGames WHERE Id = @UserGameId)
+
+IF(@StamatCash >= @AllItemsPrice)
+BEGIN
+	BEGIN TRAN
+		UPDATE UsersGames
+		SET Cash -= @AllItemsPrice
+		WHERE Id = @UserGameId
+	
+		INSERT INTO UserGameItems
+		SELECT i.Id, @UserGameId  FROM Items AS i
+		WHERE (i.MinLevel BETWEEN @ItemStartLevel AND @ItemEndLevel)
+	COMMIT
+END
+
+SELECT i.Name AS [Item Name] FROM Users AS u
+JOIN UsersGames AS ug
+ON u.Id = ug.UserId
+JOIN Games AS g
+ON ug.GameId = g.Id
+JOIN UserGameItems AS ugi
+ON ug.Id = ugi.UserGameId
+JOIN Items AS i
+ON ugi.ItemId = i.Id
+WHERE u.Username = 'Stamat' AND g.Name = 'Safflower'
+ORDER BY i.Name
+
+		ELSE IF (NOT EXISTS (SELECT Id FROM Items WHERE Id = @ItemId))
+			RAISERROR('ItemdId DOESN''T exist!', 16, 2);
+
+		ELSE IF (NOT EXISTS (SELECT Username FROM Users WHERE Username = @userName))
+			RAISERROR('Username DOESN''T exist!', 16, 2);
+
+		UPDATE UsersGames
+		SET Cash -= (SELECT Price FROM Items WHERE Id = @ItemId)
+		WHERE UserId = (SELECT Id FROM Users WHERE Username = @userName)
+		
+		UPDATE UserGameItems
+		SET
+			ItemId = @ItemId
+			, UserGameId = (SELECT Id FROM UsersGames 
+				WHERE UserId = (SELECT Id FROM Users WHERE Username = @userName)
+				AND GameId = (SELECT Id FROM Games WHERE [Name] = @gameName))
+		WHERE ItemId = @ItemId
+			AND UserGameId = (SELECT Id FROM UsersGames 
+				WHERE UserId = (SELECT Id FROM Users WHERE Username = @userName)
+				AND GameId = (SELECT Id FROM Games WHERE [Name] = @gameName))
+
+	END;
+
+
+SELECT
+	u.Username
+	, g.[Name]
+	,ug.Cash
+	,i.[Name] AS [Item Name]
+FROM Users AS u
+JOIN UsersGames AS ug ON u.Id = ug.UserId
+	AND ug.GameId = (SELECT Id FROM Games WHERE [Name] = 'Bali')
+JOIN Games AS g ON g.[Name] = 'Bali'
+JOIN UserGameItems as ugi ON ug.Id = ugi.UserGameId
+JOIN Items AS i ON ugi.ItemId = i.Id
+
+
+
+
+
+- PROBLEM 21
+
+CREATE OR ALTER PROC usp_AssignProject(@employeeId INT, @projectId INT)
+AS
+	BEGIN TRAN
+
+		IF (@employeeId IS NULL OR @projectId IS NULL)
+			RAISERROR('Parameter cannot be null!', 16, 1);
+	
+		IF (NOT EXISTS(SELECT EmployeeID FROM Employees WHERE EmployeeID = @employeeId))
+			RAISERROR('Employee DOESNT''T exist!', 16, 1);
+
+		IF (NOT EXISTS(SELECT ProjectID FROM Projects WHERE ProjectID = @projectId))
+			RAISERROR('Project DOESNT''T exist!', 16, 1);
+
+		DECLARE @empNumOfProjects INT = (SELECT COUNT(ProjectID) 
+										FROM EmployeesProjects
+										GROUP BY EmployeeID
+										HAVING EmployeeID = @employeeId)
+
+		IF (@empNumOfProjects > 2)
+			RAISERROR('The employee has too many projects!', 16, 1);
+
+		INSERT INTO EmployeesProjects (EmployeeID, ProjectID)
+		VALUES
+		(@employeeId, @projectId)
+
+	COMMIT;
+
+
+
+
+
+- PROBLEM 22
+
+CREATE TRIGGER tr_DeletetingEmployees ON Employees FOR DELETE
+AS
+	INSERT INTO Deleted_Employees (FirstName, LastName, MiddleName, JobTitle, DepartmentId, Salary)
+	SELECT FirstName, LastName, MiddleName, JobTitle, DepartmentID, Salary	
+	FROM deleted 
