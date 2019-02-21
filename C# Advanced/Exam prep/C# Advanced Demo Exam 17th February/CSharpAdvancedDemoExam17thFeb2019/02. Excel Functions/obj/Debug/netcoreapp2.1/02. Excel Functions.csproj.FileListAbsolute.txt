@@ -1,0 +1,11 @@
+C:\Users\volenpopov\Desktop\C# Advanced Demo Exam 17th February\CSharpAdvancedDemoExam17thFeb2019\02. Excel Functions\bin\Debug\netcoreapp2.1\02. Excel Functions.deps.json
+C:\Users\volenpopov\Desktop\C# Advanced Demo Exam 17th February\CSharpAdvancedDemoExam17thFeb2019\02. Excel Functions\bin\Debug\netcoreapp2.1\02. Excel Functions.runtimeconfig.json
+C:\Users\volenpopov\Desktop\C# Advanced Demo Exam 17th February\CSharpAdvancedDemoExam17thFeb2019\02. Excel Functions\bin\Debug\netcoreapp2.1\02. Excel Functions.runtimeconfig.dev.json
+C:\Users\volenpopov\Desktop\C# Advanced Demo Exam 17th February\CSharpAdvancedDemoExam17thFeb2019\02. Excel Functions\bin\Debug\netcoreapp2.1\02. Excel Functions.dll
+C:\Users\volenpopov\Desktop\C# Advanced Demo Exam 17th February\CSharpAdvancedDemoExam17thFeb2019\02. Excel Functions\bin\Debug\netcoreapp2.1\02. Excel Functions.pdb
+C:\Users\volenpopov\Desktop\C# Advanced Demo Exam 17th February\CSharpAdvancedDemoExam17thFeb2019\02. Excel Functions\obj\Debug\netcoreapp2.1\02. Excel Functions.csprojAssemblyReference.cache
+C:\Users\volenpopov\Desktop\C# Advanced Demo Exam 17th February\CSharpAdvancedDemoExam17thFeb2019\02. Excel Functions\obj\Debug\netcoreapp2.1\02. Excel Functions.csproj.CoreCompileInputs.cache
+C:\Users\volenpopov\Desktop\C# Advanced Demo Exam 17th February\CSharpAdvancedDemoExam17thFeb2019\02. Excel Functions\obj\Debug\netcoreapp2.1\02. Excel Functions.AssemblyInfoInputs.cache
+C:\Users\volenpopov\Desktop\C# Advanced Demo Exam 17th February\CSharpAdvancedDemoExam17thFeb2019\02. Excel Functions\obj\Debug\netcoreapp2.1\02. Excel Functions.AssemblyInfo.cs
+C:\Users\volenpopov\Desktop\C# Advanced Demo Exam 17th February\CSharpAdvancedDemoExam17thFeb2019\02. Excel Functions\obj\Debug\netcoreapp2.1\02. Excel Functions.dll
+C:\Users\volenpopov\Desktop\C# Advanced Demo Exam 17th February\CSharpAdvancedDemoExam17thFeb2019\02. Excel Functions\obj\Debug\netcoreapp2.1\02. Excel Functions.pdb

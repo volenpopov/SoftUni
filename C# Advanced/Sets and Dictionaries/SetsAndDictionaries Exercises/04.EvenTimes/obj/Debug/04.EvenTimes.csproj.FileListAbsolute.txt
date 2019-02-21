@@ -1,0 +1,6 @@
+E:\Volen\Programming\C# Advanced\Sets and Dictionaries\SetsAndDictionaries\04.EvenTimes\bin\Debug\04.EvenTimes.exe.config
+E:\Volen\Programming\C# Advanced\Sets and Dictionaries\SetsAndDictionaries\04.EvenTimes\bin\Debug\04.EvenTimes.exe
+E:\Volen\Programming\C# Advanced\Sets and Dictionaries\SetsAndDictionaries\04.EvenTimes\bin\Debug\04.EvenTimes.pdb
+E:\Volen\Programming\C# Advanced\Sets and Dictionaries\SetsAndDictionaries\04.EvenTimes\obj\Debug\04.EvenTimes.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Advanced\Sets and Dictionaries\SetsAndDictionaries\04.EvenTimes\obj\Debug\04.EvenTimes.exe
+E:\Volen\Programming\C# Advanced\Sets and Dictionaries\SetsAndDictionaries\04.EvenTimes\obj\Debug\04.EvenTimes.pdb

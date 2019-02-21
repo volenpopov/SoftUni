@@ -1,0 +1,7 @@
+E:\Volen\Programming\C# Advanced\Sets and Dictionaries\SetsAndDictionaries\05.CountSymbols\bin\Debug\05.CountSymbols.exe.config
+E:\Volen\Programming\C# Advanced\Sets and Dictionaries\SetsAndDictionaries\05.CountSymbols\bin\Debug\05.CountSymbols.exe
+E:\Volen\Programming\C# Advanced\Sets and Dictionaries\SetsAndDictionaries\05.CountSymbols\bin\Debug\05.CountSymbols.pdb
+E:\Volen\Programming\C# Advanced\Sets and Dictionaries\SetsAndDictionaries\05.CountSymbols\obj\Debug\05.CountSymbols.csprojAssemblyReference.cache
+E:\Volen\Programming\C# Advanced\Sets and Dictionaries\SetsAndDictionaries\05.CountSymbols\obj\Debug\05.CountSymbols.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Advanced\Sets and Dictionaries\SetsAndDictionaries\05.CountSymbols\obj\Debug\05.CountSymbols.exe
+E:\Volen\Programming\C# Advanced\Sets and Dictionaries\SetsAndDictionaries\05.CountSymbols\obj\Debug\05.CountSymbols.pdb

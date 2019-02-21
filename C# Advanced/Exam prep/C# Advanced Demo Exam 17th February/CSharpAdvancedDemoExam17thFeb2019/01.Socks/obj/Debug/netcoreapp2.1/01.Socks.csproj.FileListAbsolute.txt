@@ -1,0 +1,11 @@
+C:\Users\volenpopov\Desktop\C# Advanced Demo Exam 17th February\CSharpAdvancedDemoExam17thFeb2019\01.Socks\bin\Debug\netcoreapp2.1\01.Socks.deps.json
+C:\Users\volenpopov\Desktop\C# Advanced Demo Exam 17th February\CSharpAdvancedDemoExam17thFeb2019\01.Socks\bin\Debug\netcoreapp2.1\01.Socks.runtimeconfig.json
+C:\Users\volenpopov\Desktop\C# Advanced Demo Exam 17th February\CSharpAdvancedDemoExam17thFeb2019\01.Socks\bin\Debug\netcoreapp2.1\01.Socks.runtimeconfig.dev.json
+C:\Users\volenpopov\Desktop\C# Advanced Demo Exam 17th February\CSharpAdvancedDemoExam17thFeb2019\01.Socks\bin\Debug\netcoreapp2.1\01.Socks.dll
+C:\Users\volenpopov\Desktop\C# Advanced Demo Exam 17th February\CSharpAdvancedDemoExam17thFeb2019\01.Socks\bin\Debug\netcoreapp2.1\01.Socks.pdb
+C:\Users\volenpopov\Desktop\C# Advanced Demo Exam 17th February\CSharpAdvancedDemoExam17thFeb2019\01.Socks\obj\Debug\netcoreapp2.1\01.Socks.csprojAssemblyReference.cache
+C:\Users\volenpopov\Desktop\C# Advanced Demo Exam 17th February\CSharpAdvancedDemoExam17thFeb2019\01.Socks\obj\Debug\netcoreapp2.1\01.Socks.csproj.CoreCompileInputs.cache
+C:\Users\volenpopov\Desktop\C# Advanced Demo Exam 17th February\CSharpAdvancedDemoExam17thFeb2019\01.Socks\obj\Debug\netcoreapp2.1\01.Socks.AssemblyInfoInputs.cache
+C:\Users\volenpopov\Desktop\C# Advanced Demo Exam 17th February\CSharpAdvancedDemoExam17thFeb2019\01.Socks\obj\Debug\netcoreapp2.1\01.Socks.AssemblyInfo.cs
+C:\Users\volenpopov\Desktop\C# Advanced Demo Exam 17th February\CSharpAdvancedDemoExam17thFeb2019\01.Socks\obj\Debug\netcoreapp2.1\01.Socks.dll
+C:\Users\volenpopov\Desktop\C# Advanced Demo Exam 17th February\CSharpAdvancedDemoExam17thFeb2019\01.Socks\obj\Debug\netcoreapp2.1\01.Socks.pdb

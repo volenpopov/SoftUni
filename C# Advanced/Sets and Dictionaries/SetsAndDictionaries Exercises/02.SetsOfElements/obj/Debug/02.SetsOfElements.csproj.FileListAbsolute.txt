@@ -1,0 +1,6 @@
+E:\Volen\Programming\C# Advanced\Sets and Dictionaries\SetsAndDictionaries\02.SetsOfElements\bin\Debug\02.SetsOfElements.exe.config
+E:\Volen\Programming\C# Advanced\Sets and Dictionaries\SetsAndDictionaries\02.SetsOfElements\bin\Debug\02.SetsOfElements.exe
+E:\Volen\Programming\C# Advanced\Sets and Dictionaries\SetsAndDictionaries\02.SetsOfElements\bin\Debug\02.SetsOfElements.pdb
+E:\Volen\Programming\C# Advanced\Sets and Dictionaries\SetsAndDictionaries\02.SetsOfElements\obj\Debug\02.SetsOfElements.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\C# Advanced\Sets and Dictionaries\SetsAndDictionaries\02.SetsOfElements\obj\Debug\02.SetsOfElements.exe
+E:\Volen\Programming\C# Advanced\Sets and Dictionaries\SetsAndDictionaries\02.SetsOfElements\obj\Debug\02.SetsOfElements.pdb
