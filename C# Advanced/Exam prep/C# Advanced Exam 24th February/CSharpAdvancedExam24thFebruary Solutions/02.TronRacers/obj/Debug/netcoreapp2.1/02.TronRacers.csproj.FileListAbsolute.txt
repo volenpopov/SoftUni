@@ -1,0 +1,10 @@
+C:\Users\volenpopov\Desktop\C# Advanced Exam 24th February\CSharpAdvancedExam24thFebruary\02.TronRacers\bin\Debug\netcoreapp2.1\02.TronRacers.deps.json
+C:\Users\volenpopov\Desktop\C# Advanced Exam 24th February\CSharpAdvancedExam24thFebruary\02.TronRacers\bin\Debug\netcoreapp2.1\02.TronRacers.runtimeconfig.json
+C:\Users\volenpopov\Desktop\C# Advanced Exam 24th February\CSharpAdvancedExam24thFebruary\02.TronRacers\bin\Debug\netcoreapp2.1\02.TronRacers.runtimeconfig.dev.json
+C:\Users\volenpopov\Desktop\C# Advanced Exam 24th February\CSharpAdvancedExam24thFebruary\02.TronRacers\bin\Debug\netcoreapp2.1\02.TronRacers.dll
+C:\Users\volenpopov\Desktop\C# Advanced Exam 24th February\CSharpAdvancedExam24thFebruary\02.TronRacers\bin\Debug\netcoreapp2.1\02.TronRacers.pdb
+C:\Users\volenpopov\Desktop\C# Advanced Exam 24th February\CSharpAdvancedExam24thFebruary\02.TronRacers\obj\Debug\netcoreapp2.1\02.TronRacers.csproj.CoreCompileInputs.cache
+C:\Users\volenpopov\Desktop\C# Advanced Exam 24th February\CSharpAdvancedExam24thFebruary\02.TronRacers\obj\Debug\netcoreapp2.1\02.TronRacers.AssemblyInfoInputs.cache
+C:\Users\volenpopov\Desktop\C# Advanced Exam 24th February\CSharpAdvancedExam24thFebruary\02.TronRacers\obj\Debug\netcoreapp2.1\02.TronRacers.AssemblyInfo.cs
+C:\Users\volenpopov\Desktop\C# Advanced Exam 24th February\CSharpAdvancedExam24thFebruary\02.TronRacers\obj\Debug\netcoreapp2.1\02.TronRacers.dll
+C:\Users\volenpopov\Desktop\C# Advanced Exam 24th February\CSharpAdvancedExam24thFebruary\02.TronRacers\obj\Debug\netcoreapp2.1\02.TronRacers.pdb

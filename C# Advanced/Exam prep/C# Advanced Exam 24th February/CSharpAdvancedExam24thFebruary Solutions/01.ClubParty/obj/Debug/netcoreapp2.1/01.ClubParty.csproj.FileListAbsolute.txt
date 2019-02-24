@@ -1,0 +1,11 @@
+C:\Users\volenpopov\Desktop\C# Advanced Exam 24th February\CSharpAdvancedExam24thFebruary\01.ClubParty\bin\Debug\netcoreapp2.1\01.ClubParty.deps.json
+C:\Users\volenpopov\Desktop\C# Advanced Exam 24th February\CSharpAdvancedExam24thFebruary\01.ClubParty\bin\Debug\netcoreapp2.1\01.ClubParty.runtimeconfig.json
+C:\Users\volenpopov\Desktop\C# Advanced Exam 24th February\CSharpAdvancedExam24thFebruary\01.ClubParty\bin\Debug\netcoreapp2.1\01.ClubParty.runtimeconfig.dev.json
+C:\Users\volenpopov\Desktop\C# Advanced Exam 24th February\CSharpAdvancedExam24thFebruary\01.ClubParty\bin\Debug\netcoreapp2.1\01.ClubParty.dll
+C:\Users\volenpopov\Desktop\C# Advanced Exam 24th February\CSharpAdvancedExam24thFebruary\01.ClubParty\bin\Debug\netcoreapp2.1\01.ClubParty.pdb
+C:\Users\volenpopov\Desktop\C# Advanced Exam 24th February\CSharpAdvancedExam24thFebruary\01.ClubParty\obj\Debug\netcoreapp2.1\01.ClubParty.csprojAssemblyReference.cache
+C:\Users\volenpopov\Desktop\C# Advanced Exam 24th February\CSharpAdvancedExam24thFebruary\01.ClubParty\obj\Debug\netcoreapp2.1\01.ClubParty.csproj.CoreCompileInputs.cache
+C:\Users\volenpopov\Desktop\C# Advanced Exam 24th February\CSharpAdvancedExam24thFebruary\01.ClubParty\obj\Debug\netcoreapp2.1\01.ClubParty.AssemblyInfoInputs.cache
+C:\Users\volenpopov\Desktop\C# Advanced Exam 24th February\CSharpAdvancedExam24thFebruary\01.ClubParty\obj\Debug\netcoreapp2.1\01.ClubParty.AssemblyInfo.cs
+C:\Users\volenpopov\Desktop\C# Advanced Exam 24th February\CSharpAdvancedExam24thFebruary\01.ClubParty\obj\Debug\netcoreapp2.1\01.ClubParty.dll
+C:\Users\volenpopov\Desktop\C# Advanced Exam 24th February\CSharpAdvancedExam24thFebruary\01.ClubParty\obj\Debug\netcoreapp2.1\01.ClubParty.pdb
