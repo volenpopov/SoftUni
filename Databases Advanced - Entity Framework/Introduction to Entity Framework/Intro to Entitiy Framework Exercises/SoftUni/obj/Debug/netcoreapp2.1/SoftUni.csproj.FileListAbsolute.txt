@@ -1,0 +1,11 @@
+E:\Volen\Programming\Databases Entity Framework\Introduction to Entity Framework\IntroToEF\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.deps.json
+E:\Volen\Programming\Databases Entity Framework\Introduction to Entity Framework\IntroToEF\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.runtimeconfig.json
+E:\Volen\Programming\Databases Entity Framework\Introduction to Entity Framework\IntroToEF\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.runtimeconfig.dev.json
+E:\Volen\Programming\Databases Entity Framework\Introduction to Entity Framework\IntroToEF\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.dll
+E:\Volen\Programming\Databases Entity Framework\Introduction to Entity Framework\IntroToEF\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.csprojAssemblyReference.cache
+E:\Volen\Programming\Databases Entity Framework\Introduction to Entity Framework\IntroToEF\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\Databases Entity Framework\Introduction to Entity Framework\IntroToEF\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.AssemblyInfoInputs.cache
+E:\Volen\Programming\Databases Entity Framework\Introduction to Entity Framework\IntroToEF\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.AssemblyInfo.cs
+E:\Volen\Programming\Databases Entity Framework\Introduction to Entity Framework\IntroToEF\SoftUni\bin\Debug\netcoreapp2.1\SoftUni.pdb
+E:\Volen\Programming\Databases Entity Framework\Introduction to Entity Framework\IntroToEF\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.dll
+E:\Volen\Programming\Databases Entity Framework\Introduction to Entity Framework\IntroToEF\SoftUni\obj\Debug\netcoreapp2.1\SoftUni.pdb
