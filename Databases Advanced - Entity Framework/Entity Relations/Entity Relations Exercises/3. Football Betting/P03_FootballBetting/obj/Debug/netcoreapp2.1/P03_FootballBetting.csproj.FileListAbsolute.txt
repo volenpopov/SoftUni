@@ -1,0 +1,3 @@
+E:\Volen\Programming\Databases Entity Framework\Entity Relations\3. FootballBetting\3. Football Betting\P03_FootballBetting\obj\Debug\netcoreapp2.1\P03_FootballBetting.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\Databases Entity Framework\Entity Relations\3. FootballBetting\3. Football Betting\P03_FootballBetting\obj\Debug\netcoreapp2.1\P03_FootballBetting.AssemblyInfoInputs.cache
+E:\Volen\Programming\Databases Entity Framework\Entity Relations\3. FootballBetting\3. Football Betting\P03_FootballBetting\obj\Debug\netcoreapp2.1\P03_FootballBetting.AssemblyInfo.cs
