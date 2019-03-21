@@ -3,6 +3,7 @@ using BillsPaymentSystem.Data;
 using BillsPaymentSystem.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
+using System.Collections.Generic;
 using System.Linq;
 
 
@@ -38,107 +39,118 @@ namespace BillsPaymentSystem.App.Core.Commands
 
             if (user == null)
             {
-                throw new ArgumentNullException($"User with id {userId} not found!");
+                throw new ArgumentNullException($"User with id #{userId} not found!");
             }
 
             var userAccounts = user.PaymentMethods
                 .Where(u => u.BankAccount != null)
-                .Select(u => u.BankAccount);
+                .Select(u => u.BankAccount)
+                .ToArray();
 
             var userCreditCards = user.PaymentMethods
                 .Where(u => u.CreditCard != null)
-                .Select(u => u.CreditCard);
+                .Select(u => u.CreditCard)
+                .ToArray();
 
             Console.WriteLine("Please select payment method: BankAccount or CreditCard");
-            string paymentMethod = Console.ReadLine();
+            string withdrawalMethod = Console.ReadLine();
             
-            switch (paymentMethod)
+            switch (withdrawalMethod)
             {
                 case "BankAccount":
-                    if (userAccounts.Any())
-                    {
-                        int[] availableAccounts = userAccounts.Select(a => a.BankAccountId).ToArray();
-
-                        Console.WriteLine(
-                            $"User's accountIds available: {string.Join(", ", availableAccounts.Select(x => $"accId: #{x}"))}");
-
-                        Console.Write("Select accountId: ");
-
-                        int accountId = int.Parse(Console.ReadLine());
-
-                        if (!availableAccounts.Contains(accountId))
-                        {
-                            throw new ArgumentNullException($"Invalid account Id #{accountId}! The accountId must be selected from the above list showing the user's accounts!");
-                        }
-
-                        Console.Write("Amount to withdraw: ");
-                        decimal amountToWithdraw = decimal.Parse(Console.ReadLine());
-
-                        BankAccount account = context.BankAccounts
-                            .First(a => a.BankAccountId == accountId);
-
-                        if (account.Balance < amountToWithdraw)
-                        {
-                            throw new InvalidOperationException($"Insufficient account balance! Balance is: ${account.Balance:f2} and you want to withdraw: ${amountToWithdraw:f2}");
-                        }
-
-                        account.Balance -= amountToWithdraw;
-
-                        result += "Successfull withdrawal!"
-                            + Environment.NewLine
-                            + $"New account balance is: ${account.Balance}";
-                    }
-                    else
-                    {
-                        throw new ArgumentNullException($"{user.FirstName + " " + user.LastName} doesn't have a bank account!");
-                    }
+                    result = WithdrawFunds(context, userAccounts);
                     break;
 
                 case "CreditCard":
-                    if (userCreditCards.Any())
-                    {
-                        int[] availableCreditCards = userCreditCards.Select(c => c.CreditCardId).ToArray();
-
-                        Console.WriteLine(
-                            $"User's creditCardsIds available: {string.Join(", ", availableCreditCards.Select(x => $"creditCardId: #{x}"))}");
-
-                        Console.Write("Select creditCardsId: #");
-
-                        int creditCardId = int.Parse(Console.ReadLine());
-
-                        if (!availableCreditCards.Contains(creditCardId))
-                        {
-                            throw new ArgumentNullException($"Invalid creditCard Id #{creditCardId}! The creditCard Id must be selected from the above list showing the user's credit cards!");
-                        }
-
-                        Console.Write("Amount to withdraw: ");
-                        decimal amountToWithdraw = decimal.Parse(Console.ReadLine());
-
-                        CreditCard card = context.CreditCards
-                            .First(a => a.CreditCardId == creditCardId);
-
-                        if (card.LimitLeft < amountToWithdraw)
-                        {
-                            throw new InvalidOperationException($"Insufficient credit card balance! Balance is: ${card.LimitLeft:f2} and you want to withdraw: ${amountToWithdraw:f2}");
-                        }
-
-                        card.MoneyOwed += amountToWithdraw;
-
-                        result += "Successfull withdrawal!"
-                            + Environment.NewLine
-                            + $"Amount remaining on credit card: ${card.LimitLeft}";
-                    }
-                    else
-                    {
-                        throw new ArgumentNullException($"{user.FirstName + " " + user.LastName} doesn't have a credit card!");
-                    }
+                    result = WithdrawFunds(context, userCreditCards);
                     break;
 
                 default:
                     throw new ArgumentException("Invalid payment method!");
             }
+            
+            return result;
+        }
 
-            context.SaveChanges();
+        private string WithdrawFunds<T>(PaymentSystemContext context, IEnumerable<T> sourceOfFunds)
+        {
+            string result = null;
+
+            if (sourceOfFunds.Any())
+            {
+                string propertyName = $"{sourceOfFunds.Select(f => f.GetType().Name).First()}";
+
+                int[] availableSourceOfFundsIds = sourceOfFunds
+                    .Select(a => (int)(a.GetType().GetProperty($"{propertyName}Id").GetValue(a)))
+                    .ToArray();
+
+                Console.WriteLine(
+                    $"User's {propertyName}Ids available: " +
+                    $"{string.Join(", ", availableSourceOfFundsIds.Select(x => $"{propertyName}Id: #{x}"))}");
+
+                Console.Write($"Select {propertyName}Id: #");
+
+                int sourceOfFundsIdToWithdrawFrom = int.Parse(Console.ReadLine());
+
+                if (!availableSourceOfFundsIds.Contains(sourceOfFundsIdToWithdrawFrom))
+                {
+                    throw new ArgumentNullException(
+                        $"Invalid {propertyName}Id #{sourceOfFundsIdToWithdrawFrom}! " +
+                        $"The {propertyName}Id must be selected from the above list showing the user's {propertyName}Ids!");
+                }
+
+                Console.Write("Amount to withdraw: ");
+                decimal amountToWithdraw = decimal.Parse(Console.ReadLine());
+
+                T sourceToWithdrawFrom = sourceOfFunds
+                    .Where(s => (int)s
+                        .GetType()
+                        .GetProperty($"{propertyName}Id")
+                        .GetValue(s) == sourceOfFundsIdToWithdrawFrom)
+                    .First();
+
+                var balance = (decimal)sourceToWithdrawFrom
+                    .GetType()
+                    .GetProperties()
+                    .First(p => p.Name == "Balance" || p.Name == "LimitLeft")
+                    .GetValue(sourceToWithdrawFrom);
+
+                if (balance < amountToWithdraw)
+                {
+                    throw new InvalidOperationException(
+                        $"Insufficient {propertyName} balance! " +
+                        $"Balance is: ${balance:f2} and you want to withdraw: ${amountToWithdraw:f2}");
+                }
+
+                var propertyToWithdrawFrom = sourceToWithdrawFrom.GetType()
+                    .GetProperties()
+                    .First(p => p.Name == "Balance" || p.Name == "MoneyOwed");
+
+                if (propertyToWithdrawFrom.Name == "Balance")
+                {
+                    propertyToWithdrawFrom
+                        .SetValue(sourceToWithdrawFrom, balance - amountToWithdraw);
+                }
+                else if (propertyToWithdrawFrom.Name == "MoneyOwed")
+                {
+                    var currentMoneyOwed = (decimal)propertyToWithdrawFrom
+                        .GetValue(sourceToWithdrawFrom);
+
+                    propertyToWithdrawFrom
+                        .SetValue(sourceToWithdrawFrom, currentMoneyOwed + amountToWithdraw);
+                }
+
+                context.SaveChanges();
+
+                result += "Successfull withdrawal!"
+                    + Environment.NewLine
+                    + $"New {propertyName} balance is: ${balance - amountToWithdraw}";
+            }
+            else
+            {
+                var sourceToWithdrawFromName = sourceOfFunds.GetType().GetGenericArguments().First().GetType().Name;
+                throw new ArgumentNullException($"The user doesn't have a {sourceToWithdrawFromName}!");
+            }
 
             return result;
         }
