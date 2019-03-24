@@ -1,0 +1,9 @@
+E:\Volen\Programming\Databases Entity Framework\C# Auto Mapping Objects\08. DB-Advanced-EF-Core-Auto-Mapping-Objects-Exercises-Skeleton\FastFood.Models\bin\Debug\netcoreapp2.1\FastFood.Models.deps.json
+E:\Volen\Programming\Databases Entity Framework\C# Auto Mapping Objects\08. DB-Advanced-EF-Core-Auto-Mapping-Objects-Exercises-Skeleton\FastFood.Models\bin\Debug\netcoreapp2.1\FastFood.Models.dll
+E:\Volen\Programming\Databases Entity Framework\C# Auto Mapping Objects\08. DB-Advanced-EF-Core-Auto-Mapping-Objects-Exercises-Skeleton\FastFood.Models\bin\Debug\netcoreapp2.1\FastFood.Models.pdb
+E:\Volen\Programming\Databases Entity Framework\C# Auto Mapping Objects\08. DB-Advanced-EF-Core-Auto-Mapping-Objects-Exercises-Skeleton\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.csprojAssemblyReference.cache
+E:\Volen\Programming\Databases Entity Framework\C# Auto Mapping Objects\08. DB-Advanced-EF-Core-Auto-Mapping-Objects-Exercises-Skeleton\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\Databases Entity Framework\C# Auto Mapping Objects\08. DB-Advanced-EF-Core-Auto-Mapping-Objects-Exercises-Skeleton\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.AssemblyInfoInputs.cache
+E:\Volen\Programming\Databases Entity Framework\C# Auto Mapping Objects\08. DB-Advanced-EF-Core-Auto-Mapping-Objects-Exercises-Skeleton\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.AssemblyInfo.cs
+E:\Volen\Programming\Databases Entity Framework\C# Auto Mapping Objects\08. DB-Advanced-EF-Core-Auto-Mapping-Objects-Exercises-Skeleton\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.dll
+E:\Volen\Programming\Databases Entity Framework\C# Auto Mapping Objects\08. DB-Advanced-EF-Core-Auto-Mapping-Objects-Exercises-Skeleton\FastFood.Models\obj\Debug\netcoreapp2.1\FastFood.Models.pdb
