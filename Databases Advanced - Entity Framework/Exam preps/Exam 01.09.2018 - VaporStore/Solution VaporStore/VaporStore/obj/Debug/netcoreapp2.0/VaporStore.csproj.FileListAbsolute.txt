@@ -1,0 +1,22 @@
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 01.09.2018 - VaporStore\VaporStore - Skeleton + Datasets\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.deps.json
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 01.09.2018 - VaporStore\VaporStore - Skeleton + Datasets\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.json
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 01.09.2018 - VaporStore\VaporStore - Skeleton + Datasets\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.dev.json
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 01.09.2018 - VaporStore\VaporStore - Skeleton + Datasets\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.dll
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 01.09.2018 - VaporStore\VaporStore - Skeleton + Datasets\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.pdb
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 01.09.2018 - VaporStore\VaporStore - Skeleton + Datasets\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.csprojAssemblyReference.cache
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 01.09.2018 - VaporStore\VaporStore - Skeleton + Datasets\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 01.09.2018 - VaporStore\VaporStore - Skeleton + Datasets\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfoInputs.cache
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 01.09.2018 - VaporStore\VaporStore - Skeleton + Datasets\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfo.cs
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 01.09.2018 - VaporStore\VaporStore - Skeleton + Datasets\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.dll
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 01.09.2018 - VaporStore\VaporStore - Skeleton + Datasets\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.pdb
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 01.09.2018 - VaporStore\Solution VaporStore\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.deps.json
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 01.09.2018 - VaporStore\Solution VaporStore\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.json
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 01.09.2018 - VaporStore\Solution VaporStore\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.runtimeconfig.dev.json
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 01.09.2018 - VaporStore\Solution VaporStore\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.dll
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 01.09.2018 - VaporStore\Solution VaporStore\VaporStore\bin\Debug\netcoreapp2.0\VaporStore.pdb
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 01.09.2018 - VaporStore\Solution VaporStore\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.csprojAssemblyReference.cache
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 01.09.2018 - VaporStore\Solution VaporStore\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 01.09.2018 - VaporStore\Solution VaporStore\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfoInputs.cache
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 01.09.2018 - VaporStore\Solution VaporStore\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.AssemblyInfo.cs
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 01.09.2018 - VaporStore\Solution VaporStore\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.dll
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 01.09.2018 - VaporStore\Solution VaporStore\VaporStore\obj\Debug\netcoreapp2.0\VaporStore.pdb
