@@ -1,0 +1,11 @@
+E:\Volen\Programming\Databases Entity Framework\JSON Processing\Homework - Car Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.deps.json
+E:\Volen\Programming\Databases Entity Framework\JSON Processing\Homework - Car Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.json
+E:\Volen\Programming\Databases Entity Framework\JSON Processing\Homework - Car Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.runtimeconfig.dev.json
+E:\Volen\Programming\Databases Entity Framework\JSON Processing\Homework - Car Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.dll
+E:\Volen\Programming\Databases Entity Framework\JSON Processing\Homework - Car Dealer\CarDealer\bin\Debug\netcoreapp2.1\CarDealer.pdb
+E:\Volen\Programming\Databases Entity Framework\JSON Processing\Homework - Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csprojAssemblyReference.cache
+E:\Volen\Programming\Databases Entity Framework\JSON Processing\Homework - Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\Databases Entity Framework\JSON Processing\Homework - Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfoInputs.cache
+E:\Volen\Programming\Databases Entity Framework\JSON Processing\Homework - Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.AssemblyInfo.cs
+E:\Volen\Programming\Databases Entity Framework\JSON Processing\Homework - Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.dll
+E:\Volen\Programming\Databases Entity Framework\JSON Processing\Homework - Car Dealer\CarDealer\obj\Debug\netcoreapp2.1\CarDealer.pdb

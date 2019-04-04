@@ -1,0 +1,10 @@
+E:\Volen\Programming\Databases Entity Framework\JSON Processing\Homework - Product Shop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+E:\Volen\Programming\Databases Entity Framework\JSON Processing\Homework - Product Shop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+E:\Volen\Programming\Databases Entity Framework\JSON Processing\Homework - Product Shop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+E:\Volen\Programming\Databases Entity Framework\JSON Processing\Homework - Product Shop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+E:\Volen\Programming\Databases Entity Framework\JSON Processing\Homework - Product Shop\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+E:\Volen\Programming\Databases Entity Framework\JSON Processing\Homework - Product Shop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\Databases Entity Framework\JSON Processing\Homework - Product Shop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+E:\Volen\Programming\Databases Entity Framework\JSON Processing\Homework - Product Shop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+E:\Volen\Programming\Databases Entity Framework\JSON Processing\Homework - Product Shop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+E:\Volen\Programming\Databases Entity Framework\JSON Processing\Homework - Product Shop\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
