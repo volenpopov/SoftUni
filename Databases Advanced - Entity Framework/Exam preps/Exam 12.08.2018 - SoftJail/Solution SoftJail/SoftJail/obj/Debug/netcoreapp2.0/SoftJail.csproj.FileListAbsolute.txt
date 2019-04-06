@@ -1,0 +1,11 @@
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 12.08.2018 - SoftJail\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.deps.json
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 12.08.2018 - SoftJail\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.json
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 12.08.2018 - SoftJail\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.runtimeconfig.dev.json
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 12.08.2018 - SoftJail\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.dll
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 12.08.2018 - SoftJail\01. Model Definition_Skeleton and Datasets\SoftJail\bin\Debug\netcoreapp2.0\SoftJail.pdb
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 12.08.2018 - SoftJail\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csprojAssemblyReference.cache
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 12.08.2018 - SoftJail\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 12.08.2018 - SoftJail\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfoInputs.cache
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 12.08.2018 - SoftJail\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.AssemblyInfo.cs
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 12.08.2018 - SoftJail\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.dll
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 12.08.2018 - SoftJail\01. Model Definition_Skeleton and Datasets\SoftJail\obj\Debug\netcoreapp2.0\SoftJail.pdb
