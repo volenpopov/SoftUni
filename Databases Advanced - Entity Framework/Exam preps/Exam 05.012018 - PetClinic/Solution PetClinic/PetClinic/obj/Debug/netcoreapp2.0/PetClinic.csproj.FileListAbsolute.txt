@@ -1,0 +1,22 @@
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 05.012018 - PetClinic\01. Model Definition_Project Skeleton\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.deps.json
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 05.012018 - PetClinic\01. Model Definition_Project Skeleton\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.runtimeconfig.json
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 05.012018 - PetClinic\01. Model Definition_Project Skeleton\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.runtimeconfig.dev.json
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 05.012018 - PetClinic\01. Model Definition_Project Skeleton\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.dll
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 05.012018 - PetClinic\01. Model Definition_Project Skeleton\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.pdb
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 05.012018 - PetClinic\01. Model Definition_Project Skeleton\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.csprojAssemblyReference.cache
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 05.012018 - PetClinic\01. Model Definition_Project Skeleton\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 05.012018 - PetClinic\01. Model Definition_Project Skeleton\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.AssemblyInfoInputs.cache
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 05.012018 - PetClinic\01. Model Definition_Project Skeleton\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.AssemblyInfo.cs
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 05.012018 - PetClinic\01. Model Definition_Project Skeleton\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.dll
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 05.012018 - PetClinic\01. Model Definition_Project Skeleton\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.pdb
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 05.012018 - PetClinic\Solution PetClinic\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.deps.json
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 05.012018 - PetClinic\Solution PetClinic\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.runtimeconfig.json
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 05.012018 - PetClinic\Solution PetClinic\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.runtimeconfig.dev.json
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 05.012018 - PetClinic\Solution PetClinic\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.dll
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 05.012018 - PetClinic\Solution PetClinic\PetClinic\bin\Debug\netcoreapp2.0\PetClinic.pdb
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 05.012018 - PetClinic\Solution PetClinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.csprojAssemblyReference.cache
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 05.012018 - PetClinic\Solution PetClinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.csproj.CoreCompileInputs.cache
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 05.012018 - PetClinic\Solution PetClinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.AssemblyInfoInputs.cache
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 05.012018 - PetClinic\Solution PetClinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.AssemblyInfo.cs
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 05.012018 - PetClinic\Solution PetClinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.dll
+E:\Volen\Programming\Databases Entity Framework\Exam preparation\Exam 05.012018 - PetClinic\Solution PetClinic\PetClinic\obj\Debug\netcoreapp2.0\PetClinic.pdb
