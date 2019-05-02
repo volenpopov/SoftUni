@@ -1,0 +1,18 @@
+section {
+    margin-left: 20px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #cccccc;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+p {
+    font-size: 24px;
+    font-style: italic;
+}
