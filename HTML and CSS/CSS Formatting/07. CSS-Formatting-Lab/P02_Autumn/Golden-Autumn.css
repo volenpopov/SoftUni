@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+body {    
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+    background-color:rgb(241, 48, 48, 0.8);
+}
+
+
+main {
+    background-color: rgba(249, 140, 31, 0.7);    
+    padding: 15px;
+    border: 2px solid transparent;
+    border-radius: 15px;
+}
+
+nav {
+    float: right;    
+}
+
+nav ul {    
+    display: flex;
+    flex-direction: row-reverse;
+    list-style: none;   
+}
+
+.nav-item{
+    color: black;
+    font-weight: bold;
+    margin: 10px;
+    padding: 15px 30px;
+    display: inline-block;
+    text-transform: uppercase; 
+    border: 2px double grey;
+    border-radius: 10px;       
+}
+
+.nav-item:hover {
+    cursor: pointer;
+}
+
+header {
+    padding-top: 25px;
+    width: 100%;
+    text-align: center;
+}
+
+h1 {  
+    margin-left: 20px; 
+    font-size: 1.9em;
+    border: double grey;
+    width: 500px;
+    padding: 10px;
+    font-style: italic;
+}
+
+h1:hover {
+    cursor: default;
+}
+
+article {
+    margin: 20px;
+    padding: 25px;
+    text-align: left;
+    border: solid rgb(241, 48, 48, 0.8);
+    border-radius: 15px; 
+}
+
+figure {
+    width: 20%;
+    float: right;
+    margin-left: 15px;
+    margin-right: 0px;
+}
+
+img {    
+    width: 80%;
+    border: solid rgb(241, 48, 48, 0.8);
+    border-radius: 15px;
+    margin-left: 25px;
+}
+
+article p {
+    font-size: 0.9em;
+    text-align: justify;
+}
+
+button {
+    border: solid rgb(241, 48, 48, 0.8);
+    border-radius: 15px;
+    text-transform: uppercase;
+    background-color: transparent;
+    color: rgb(241, 48, 48);
+    padding: 10px;
+    font-weight: bold;
+    font-size: 0.9em;
+	outline: none;
+}
+
+button:hover {
+	cursor: pointer;
+	background-color: white;
+
+footer {
+    text-align: center;
+    margin: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+    border: double grey;
+    border-radius: 10px;
+    padding: 10px;
+}
