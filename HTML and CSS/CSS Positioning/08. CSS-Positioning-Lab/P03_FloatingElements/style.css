@@ -1,0 +1,21 @@
+div {
+    background-color: #6495ed;
+    border-radius: 3px;
+    padding: 10px;
+    width: 110px;
+    text-align: center;
+}
+
+.left {
+    float: left;
+    margin-right: 10px; 
+}
+
+.right {
+    float: right;
+    margin-left: 10px;
+}
+
+.center {
+    margin: 0 auto;
+}
