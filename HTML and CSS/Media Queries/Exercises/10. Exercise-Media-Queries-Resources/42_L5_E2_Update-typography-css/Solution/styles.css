@@ -1,0 +1,94 @@
+body {
+	padding: 5em;
+	background: #EEE;
+}
+
+.page {
+	max-width: 60rem;
+	margin: 0 auto;
+}
+
+.page > header:first-of-type {
+	border-bottom: 2px solid #000;
+}
+
+header .site-title {
+	display: inline-block;
+	min-width: 20vw;
+	font-weight: bold;
+	font-size: 3rem;
+	text-transform: uppercase;
+}
+
+img[class^="align-"] {
+	padding: 0.5rem;
+	background: #FFF;
+	border: 3px solid #222;
+	box-shadow: 0 0 5rem 0.1rem rgba(0,0,0,0.25);
+}
+
+.align-left {
+	float: left;
+	margin: 0 1.5rem 1rem 0;
+}
+
+.align-right {
+	float: right;
+	margin: 0 0 1rem 1.5rem;
+}
+
+blockquote {
+	width: 40%;
+	min-width: 15rem;
+	float: right;
+	color: #444;
+	font-family: "Georgia", serif;
+	padding-top: 0;
+}
+
+
+@media screen and (max-width: 500px) {
+	body {
+		padding: 1em;
+	}
+	
+	main p {
+		font-size: 14px;
+	}
+
+	.align-right {
+		float: left;
+		margin: 0 1.5rem 1rem 0;
+	}
+
+	.quote {
+		display: block;
+		display: flex;
+		flex: 0 2 auto;
+		justify-content: center;
+	}
+}
+
+@media screen and (min-width: 600px) {
+	main p {
+		font-size: 16px;
+	}
+}
+
+@media screen and (min-width: 800px) {
+	main p {
+		font-size: 18px;
+	}
+}
+
+@media screen and (min-width: 1300px) {
+	main p{
+		font-size: 21px;
+	}
+}
+
+@media screen and (width: 1800px) {
+	main p {
+		font-size: 23px;
+	}
+}
