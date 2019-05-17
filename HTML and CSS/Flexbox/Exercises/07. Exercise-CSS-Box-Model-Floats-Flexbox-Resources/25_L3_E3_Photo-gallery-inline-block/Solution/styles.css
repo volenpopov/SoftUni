@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    background-color: #eeeeee;    
+    width: 80%;
+    text-align: center;
+    padding: 3rem;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline-block;
+    vertical-align: middle;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+.resizeImg img {
+    width: 300px;
+}

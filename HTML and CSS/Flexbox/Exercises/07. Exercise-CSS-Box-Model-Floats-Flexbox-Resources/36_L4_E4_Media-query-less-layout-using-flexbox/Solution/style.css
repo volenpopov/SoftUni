@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 2.5rem;
+    background-color: lightgray; 
+    display: flex;
+    flex-wrap: wrap;
+}
+
+header, main, aside, footer {
+    box-sizing: border-box;
+    text-transform: uppercase;
+    font-weight: 500;
+    border: 3px solid black;
+    border-radius: 5px;
+    box-shadow: 0 0 1rem 0.1rem rgba(0,0,0,0.3);
+    margin: 1rem;
+    padding: 2rem;
+}
+
+header, footer {
+	flex-basis: 100%;	
+}
+
+main {
+	flex: 8 1 40rem;
+	height: 50vh;
+}
+
+aside {
+	flex: 2 1 20rem;
+}

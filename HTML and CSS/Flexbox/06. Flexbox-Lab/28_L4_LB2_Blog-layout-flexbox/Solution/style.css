@@ -1,0 +1,71 @@
+div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 2rem;      
+}
+
+header {
+    width: 100%;
+    border-bottom: 2px solid black;
+}
+
+main {    
+    flex: 1 0 85%;
+}
+
+aside {    
+    box-sizing: border-box;
+    padding: 2rem 0 0 3rem;
+    flex: 1 0 15%;  
+    display: flex;
+    flex-wrap: wrap;  
+    align-content: flex-start;     
+}
+
+aside section {
+    flex: 1 0 10rem;    
+}
+
+ aside section p {
+    font-size: 1.5rem;
+    font-weight: 600;
+} 
+
+aside li a {
+    text-decoration: none;
+    color: black;
+}
+
+.firstImg {
+    border: 1px solid black;
+    border-width: 3px;
+    border-radius: 3px;
+    padding: 0.5rem;
+    box-shadow: 2px 2px 5px 1px gray;
+    float: right;
+    width: 15rem;  
+    margin: 0 25px 5px 20px; 
+}
+
+.secondImg {
+    border: 1px solid black;
+    border-width: 3px;
+    border-radius: 3px;
+    padding: 0.5rem;
+    box-shadow: 2px 2px 5px 1px gray;
+    float: left;
+    width: 15rem;  
+    margin: 0 20px 5px 0; 
+}
+
+header p {
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+article {
+    box-sizing: border-box;    
+    padding: 15px;
+}

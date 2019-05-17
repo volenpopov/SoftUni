@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="./style.css">
+    <title>Blog Layout Flexbox</title>
+</head>
+
+<body>
+    <div>
+            <header>
+                    <p>Site Title</p>
+                </header>
+            
+                <main>
+                    <article>
+                        <h1>Heading level 1</h1>
+                         <img class="firstImg" src="data:image/png;base64,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"
+                            alt=""> 
+                        <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium deleniti facilis ad architecto
+                            perspiciatis ea hic, harum deserunt repudiandae accusamus voluptas molestias cupiditate, magni est
+                            pariatur sunt voluptates excepturi consequatur. Lorem ipsum dolor sit amet consectetur, adipisicing
+                            elit. Ratione iure beatae veniam harum optio non voluptatum quibusdam eligendi dolores. Sunt corporis ab
+                            magnam est porro laboriosam modi reiciendis aperiam eligendi! Lorem ipsum dolor sit amet consectetur
+                            adipisicing elit. Illo voluptas expedita a deleniti quo illum inventore dolore aperiam facilis
+                            accusantium, mollitia vitae nobis in nemo, modi, assumenda cumque laborum. Cum!</p>           
+                        <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium deleniti facilis ad architecto
+                            perspiciatis ea hic, harum deserunt repudiandae accusamus voluptas molestias cupiditate, magni est
+                            pariatur sunt voluptates excepturi consequatur. Lorem ipsum dolor sit amet consectetur, adipisicing
+                            elit. Ratione iure beatae veniam harum optio non voluptatum quibusdam eligendi dolores. Sunt corporis ab
+                            magnam est porro laboriosam modi reiciendis aperiam eligendi! Lorem ipsum dolor sit amet consectetur
+                            adipisicing elit. Illo voluptas expedita a deleniti quo illum inventore dolore aperiam facilis
+                            accusantium, mollitia vitae nobis in nemo, modi, assumenda cumque laborum. Cum!</p>
+                    </article>
+            
+                    <article>
+                        <h1>Heading level 2</h1>
+                        <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium deleniti facilis ad architecto
+                            perspiciatis ea hic, harum deserunt repudiandae accusamus voluptas molestias cupiditate, magni est
+                            pariatur sunt voluptates excepturi consequatur. Lorem ipsum dolor sit amet consectetur, adipisicing
+                            elit. Ratione iure beatae veniam harum optio non voluptatum quibusdam eligendi dolores. Sunt corporis ab
+                            magnam est porro laboriosam modi reiciendis aperiam eligendi! Lorem ipsum dolor sit amet consectetur
+                            adipisicing elit. Illo voluptas expedita a deleniti quo illum inventore dolore aperiam facilis
+                            accusantium, mollitia vitae nobis in nemo, modi, assumenda cumque laborum. Cum!</p>
+                        <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium deleniti facilis ad architecto
+                            perspiciatis ea hic, harum deserunt repudiandae accusamus voluptas molestias cupiditate, magni est
+                            pariatur sunt voluptates excepturi consequatur. Lorem ipsum dolor sit amet consectetur, adipisicing
+                            elit. Ratione iure beatae veniam harum optio non voluptatum quibusdam eligendi dolores. Sunt corporis ab
+                            magnam est porro laboriosam modi reiciendis aperiam eligendi! Lorem ipsum dolor sit amet consectetur
+                            adipisicing elit. Illo voluptas expedita a deleniti quo illum inventore dolore aperiam facilis
+                            accusantium, mollitia vitae nobis in nemo, modi, assumenda cumque laborum. Cum!</p>
+                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptas maiores obcaecati nam nulla iste!
+                            Reprehenderit tempora, id blanditiis sint, amet natus rerum quasi iste praesentium dolorem optio
+                            deleniti cupiditate. Ipsa?</p>
+                        <blockquote>Lorem ipsum dolor sit amet consectetur adipisicing elit</blockquote>
+                        <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium deleniti facilis ad architecto
+                            perspiciatis ea hic, harum deserunt repudiandae accusamus voluptas molestias cupiditate, magni est
+                            pariatur sunt voluptates excepturi consequatur. Lorem ipsum dolor sit amet consectetur, adipisicing
+                            elit. Ratione iure beatae veniam harum optio non voluptatum quibusdam eligendi dolores. Sunt corporis ab
+                            magnam est porro laboriosam modi reiciendis aperiam eligendi! Lorem ipsum dolor sit amet consectetur
+                            adipisicing elit. Illo voluptas expedita a deleniti quo illum inventore dolore aperiam facilis
+                            accusantium, mollitia vitae nobis in nemo, modi, assumenda cumque laborum. Cum!</p>
+                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dicta at suscipit eaque ea recusandae
+                            accusantium velit libero quas laboriosam laborum impedit, ratione id fugiat sit cum autem rem corporis
+                            deleniti.</p>
+                    </article>
+            
+                    <article>
+                        <h1>Heading level 1</h1>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt eos repellat at, consequuntur ratione
+                            cum quo eveniet ducimus suscipit aut non veniam adipisci ut error sit corporis magni pariatur ad.</p>
+                        <img class="secondImg" src="https://globalgamejam.org/sites/default/files/styles/game_sidebar__normal/public/game/featured_image/promo_5.png?itok=9dymM8JD"
+                            alt="">
+                        <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium deleniti facilis ad architecto
+                            perspiciatis ea hic, harum deserunt repudiandae accusamus voluptas molestias cupiditate, magni est
+                            pariatur sunt voluptates excepturi consequatur. Lorem ipsum dolor sit amet consectetur, adipisicing
+                            elit. Ratione iure beatae veniam harum optio non voluptatum quibusdam eligendi dolores. Sunt corporis ab
+                            magnam est porro laboriosam modi reiciendis aperiam eligendi! Lorem ipsum dolor sit amet consectetur
+                            adipisicing elit. Illo voluptas expedita a deleniti quo illum inventore dolore aperiam facilis
+                            accusantium, mollitia vitae nobis in nemo, modi, assumenda cumque laborum. Cum!</p>
+                    </article>
+                </main>
+            
+                <aside>
+                    <section>
+                        <p>Categories</p>
+                        <ul>
+                            <li><a href="#">Stuff</a></li>
+                            <li><a href="#">Something</a></li>
+                            <li><a href="#">Important</a></li>
+                            <li><a href="#">Dogs</a></li>
+                        </ul>
+                    </section>
+                    <section>
+                        <p>Social</p>
+                        <ul>
+                            <li><a href="№">Facebook</a></li>
+                            <li><a href="№">Twitter</a></li>
+                            <li><a href="№">Google+ > really?</a></li>
+                        </ul>
+                    </section>
+                </aside>
+    </div>   
+</body>
+
+</html>

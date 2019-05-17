@@ -1,0 +1,35 @@
+body {    
+    display: flex;
+    flex-direction: column;    
+    min-height: 100vh;
+    margin: 0;
+}
+
+header {
+    padding: 1rem;
+    border-bottom: 2px solid black;
+}
+
+main {
+    padding: 1rem;
+}
+
+footer {
+    box-sizing: border-box;
+    background-color: lightgray;    
+    margin-top: auto;      
+}
+
+footer p {
+    font-size: 1.2rem;
+    margin-left: 1rem;
+    font-weight: bold;
+    font-style: italic;
+}
+
+header p {
+    font-size: 2rem;
+    font-weight: 600;   
+    margin-bottom: 1rem; 
+    margin: 0 auto;
+}
